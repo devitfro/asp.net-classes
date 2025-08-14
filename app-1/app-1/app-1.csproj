@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>app_1</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\html\form.html" />
+    <None Include="wwwroot\html\greeting.html" />
+  </ItemGroup>
+
+</Project>

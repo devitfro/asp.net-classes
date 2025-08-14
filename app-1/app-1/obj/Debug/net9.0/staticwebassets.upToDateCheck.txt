@@ -1,0 +1,4 @@
+wwwroot\html\form.html
+wwwroot\html\greeting.html
+D:\development\itStep\asp.net\asp.net-classes\app-1\app-1\wwwroot\html\form.html
+D:\development\itStep\asp.net\asp.net-classes\app-1\app-1\wwwroot\html\greeting.html
