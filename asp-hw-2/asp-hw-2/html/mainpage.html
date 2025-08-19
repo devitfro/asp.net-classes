@@ -1,0 +1,75 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Weather</title>
+    <style>
+        body {
+            padding: 0;
+            margin: 0;
+        }
+
+        .header-title {
+            text-align: center;
+            color: #333;
+        }
+
+        .container {
+            width: 50%;
+            margin: 0 auto;
+            border: 3px solid #eee;
+            padding: 24px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1 class="header-title">Welcome to weather page!</h1>
+    </header>
+    <div class="container">
+
+        <form onsubmit="event.preventDefault(); getWeatherFromInput()">
+            <label for="city">Enter city </label>
+            <input type="text" name="city" id="cityInput" />
+            <button type="submit">Search</button>
+        </form>
+
+        <div id="result"></div>
+
+        <div>
+            <a href="#" onclick="getWeather('Kyiv'); return false;">Kyiv</a> |
+            <a href="#" onclick="getWeather('London'); return false;">London</a> |
+            <a href="#" onclick="getWeather('New York'); return false;">New York</a>
+        </div>
+    </div>
+
+    <script>
+        async function getWeather(city) {
+            const response = await fetch("/searchcity", {
+                method: "POST",
+                headers: {
+                    "Accept": "application/json",
+                    "Content-Type": "application/json"
+                },
+                body: JSON.stringify({ city: city })
+            });
+
+            const data = await response.json();
+
+            if (data.error) {
+                document.getElementById('result').innerText = "City not found.";
+            }
+            else {
+                document.getElementById('result').innerHTML =
+                    `<h2>The weather in: ${data.location.name}</h2>
+                    <p>Temperature: ${data.current.temp_c}°C</p>`;
+            }
+        }
+
+        function getWeatherFromInput() {
+            const city = document.getElementById('cityInput').value;
+            getWeather(city);
+        }
+    </script>
+</body>
+</html>
