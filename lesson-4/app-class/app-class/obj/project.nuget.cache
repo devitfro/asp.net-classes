@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "q91j2drQC9s=",
+  "success": true,
+  "projectFilePath": "D:\\development\\itStep\\asp.net\\asp.net-classes\\lesson-4\\app-class\\app-class\\app-class.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alina\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512"
+  ],
+  "logs": []
+}

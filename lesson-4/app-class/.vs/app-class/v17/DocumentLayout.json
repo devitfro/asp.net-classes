@@ -1,0 +1,142 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\development\\itStep\\asp.net\\asp.net-classes\\lesson-4\\app-class\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C2347A9-FE91-4F15-BA79-068C03F0CC10}|app-class\\app-class.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\lesson-4\\app-class\\app-class\\middleware\\authenticationmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C2347A9-FE91-4F15-BA79-068C03F0CC10}|app-class\\app-class.csproj|solutionrelative:app-class\\middleware\\authenticationmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C2347A9-FE91-4F15-BA79-068C03F0CC10}|app-class\\app-class.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\lesson-4\\app-class\\app-class\\middleware\\sentencelengthmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C2347A9-FE91-4F15-BA79-068C03F0CC10}|app-class\\app-class.csproj|solutionrelative:app-class\\middleware\\sentencelengthmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C2347A9-FE91-4F15-BA79-068C03F0CC10}|app-class\\app-class.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\lesson-4\\app-class\\app-class\\middleware\\routingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C2347A9-FE91-4F15-BA79-068C03F0CC10}|app-class\\app-class.csproj|solutionrelative:app-class\\middleware\\routingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C2347A9-FE91-4F15-BA79-068C03F0CC10}|app-class\\app-class.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\lesson-4\\app-class\\app-class\\middleware\\numberdeterminantmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C2347A9-FE91-4F15-BA79-068C03F0CC10}|app-class\\app-class.csproj|solutionrelative:app-class\\middleware\\numberdeterminantmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C2347A9-FE91-4F15-BA79-068C03F0CC10}|app-class\\app-class.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\lesson-4\\app-class\\app-class\\middleware\\interpretatormiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C2347A9-FE91-4F15-BA79-068C03F0CC10}|app-class\\app-class.csproj|solutionrelative:app-class\\middleware\\interpretatormiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C2347A9-FE91-4F15-BA79-068C03F0CC10}|app-class\\app-class.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\lesson-4\\app-class\\app-class\\middleware\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C2347A9-FE91-4F15-BA79-068C03F0CC10}|app-class\\app-class.csproj|solutionrelative:app-class\\middleware\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C2347A9-FE91-4F15-BA79-068C03F0CC10}|app-class\\app-class.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\lesson-4\\app-class\\app-class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C2347A9-FE91-4F15-BA79-068C03F0CC10}|app-class\\app-class.csproj|solutionrelative:app-class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NumberDeterminantMiddleware.cs",
+              "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\lesson-4\\app-class\\app-class\\Middleware\\NumberDeterminantMiddleware.cs",
+              "RelativeDocumentMoniker": "app-class\\Middleware\\NumberDeterminantMiddleware.cs",
+              "ToolTip": "D:\\development\\itStep\\asp.net\\asp.net-classes\\lesson-4\\app-class\\app-class\\Middleware\\NumberDeterminantMiddleware.cs",
+              "RelativeToolTip": "app-class\\Middleware\\NumberDeterminantMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T14:39:43.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SentenceLengthMiddleware.cs",
+              "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\lesson-4\\app-class\\app-class\\Middleware\\SentenceLengthMiddleware.cs",
+              "RelativeDocumentMoniker": "app-class\\Middleware\\SentenceLengthMiddleware.cs",
+              "ToolTip": "D:\\development\\itStep\\asp.net\\asp.net-classes\\lesson-4\\app-class\\app-class\\Middleware\\SentenceLengthMiddleware.cs",
+              "RelativeToolTip": "app-class\\Middleware\\SentenceLengthMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T15:09:06.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthenticationMiddleware.cs",
+              "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\lesson-4\\app-class\\app-class\\Middleware\\AuthenticationMiddleware.cs",
+              "RelativeDocumentMoniker": "app-class\\Middleware\\AuthenticationMiddleware.cs",
+              "ToolTip": "D:\\development\\itStep\\asp.net\\asp.net-classes\\lesson-4\\app-class\\app-class\\Middleware\\AuthenticationMiddleware.cs",
+              "RelativeToolTip": "app-class\\Middleware\\AuthenticationMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T15:06:50.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ErrorHandlingMiddleware.cs",
+              "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\lesson-4\\app-class\\app-class\\Middleware\\ErrorHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "app-class\\Middleware\\ErrorHandlingMiddleware.cs",
+              "ToolTip": "D:\\development\\itStep\\asp.net\\asp.net-classes\\lesson-4\\app-class\\app-class\\Middleware\\ErrorHandlingMiddleware.cs",
+              "RelativeToolTip": "app-class\\Middleware\\ErrorHandlingMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T15:06:39.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InterpretatorMiddleware.cs",
+              "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\lesson-4\\app-class\\app-class\\Middleware\\InterpretatorMiddleware.cs",
+              "RelativeDocumentMoniker": "app-class\\Middleware\\InterpretatorMiddleware.cs",
+              "ToolTip": "D:\\development\\itStep\\asp.net\\asp.net-classes\\lesson-4\\app-class\\app-class\\Middleware\\InterpretatorMiddleware.cs",
+              "RelativeToolTip": "app-class\\Middleware\\InterpretatorMiddleware.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T14:57:51.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RoutingMiddleware.cs",
+              "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\lesson-4\\app-class\\app-class\\Middleware\\RoutingMiddleware.cs",
+              "RelativeDocumentMoniker": "app-class\\Middleware\\RoutingMiddleware.cs",
+              "ToolTip": "D:\\development\\itStep\\asp.net\\asp.net-classes\\lesson-4\\app-class\\app-class\\Middleware\\RoutingMiddleware.cs",
+              "RelativeToolTip": "app-class\\Middleware\\RoutingMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T14:51:52.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\lesson-4\\app-class\\app-class\\Program.cs",
+              "RelativeDocumentMoniker": "app-class\\Program.cs",
+              "ToolTip": "D:\\development\\itStep\\asp.net\\asp.net-classes\\lesson-4\\app-class\\app-class\\Program.cs",
+              "RelativeToolTip": "app-class\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T14:19:34.125Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
