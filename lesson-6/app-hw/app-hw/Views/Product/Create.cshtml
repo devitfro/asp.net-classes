@@ -1,0 +1,14 @@
+﻿@{
+    ViewData["Title"] = "Create Product Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Add product:</h1>
+    <form method="post" action="~/Product/Create">
+        <label>Name</label><br />
+        <input type="text" name="Name" /><br />
+        <label>Price</label><br />
+        <input type="number" name="Price" /><br />
+        <input type="submit" value="Add" />
+    </form>
+</div>

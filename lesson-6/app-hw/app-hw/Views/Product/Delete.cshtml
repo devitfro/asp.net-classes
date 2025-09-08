@@ -1,0 +1,11 @@
+﻿@{
+    ViewData["Title"] = "Delete Product Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Enter id product to delete:</h1>
+    <form method="post" action="~/Product/Delete">
+        <input type="number" name="id" />
+        <input type="submit" value="Delete" />
+    </form>
+</div>

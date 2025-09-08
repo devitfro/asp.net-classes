@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\development\\itStep\\asp.net\\asp.net-classes\\lesson-6\\app-hw\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA962850-936D-436F-9BDC-6549DFCB19CB}|app-hw\\app-hw.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\lesson-6\\app-hw\\app-hw\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA962850-936D-436F-9BDC-6549DFCB19CB}|app-hw\\app-hw.csproj|solutionrelative:app-hw\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA962850-936D-436F-9BDC-6549DFCB19CB}|app-hw\\app-hw.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\lesson-6\\app-hw\\app-hw\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA962850-936D-436F-9BDC-6549DFCB19CB}|app-hw\\app-hw.csproj|solutionrelative:app-hw\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA962850-936D-436F-9BDC-6549DFCB19CB}|app-hw\\app-hw.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\lesson-6\\app-hw\\app-hw\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CA962850-936D-436F-9BDC-6549DFCB19CB}|app-hw\\app-hw.csproj|solutionrelative:app-hw\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA962850-936D-436F-9BDC-6549DFCB19CB}|app-hw\\app-hw.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\lesson-6\\app-hw\\app-hw\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA962850-936D-436F-9BDC-6549DFCB19CB}|app-hw\\app-hw.csproj|solutionrelative:app-hw\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\lesson-6\\app-hw\\app-hw\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "app-hw\\Models\\Product.cs",
+              "ToolTip": "D:\\development\\itStep\\asp.net\\asp.net-classes\\lesson-6\\app-hw\\app-hw\\Models\\Product.cs",
+              "RelativeToolTip": "app-hw\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T11:44:26.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\lesson-6\\app-hw\\app-hw\\appsettings.json",
+              "RelativeDocumentMoniker": "app-hw\\appsettings.json",
+              "ToolTip": "D:\\development\\itStep\\asp.net\\asp.net-classes\\lesson-6\\app-hw\\app-hw\\appsettings.json",
+              "RelativeToolTip": "app-hw\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-08T11:43:34.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\lesson-6\\app-hw\\app-hw\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "app-hw\\Views\\Product\\Create.cshtml",
+              "ToolTip": "D:\\development\\itStep\\asp.net\\asp.net-classes\\lesson-6\\app-hw\\app-hw\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "app-hw\\Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-08T11:42:00.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\lesson-6\\app-hw\\app-hw\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "app-hw\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\development\\itStep\\asp.net\\asp.net-classes\\lesson-6\\app-hw\\app-hw\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "app-hw\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T10:30:28.94Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
