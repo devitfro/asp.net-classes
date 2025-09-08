@@ -1,0 +1,14 @@
+﻿@{
+    ViewData["Title"] = "Registration Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Registration:</h1> 
+    <form method="post" action="~/Registration/GetUser">
+        <label>Login:</label><br />
+        <input type="text" name="name" /><br />
+        <label>Password:</label><br />
+        <input type="password" name="password" /><br />
+        <input type="submit" value="Send" />
+    </form>
+</div>

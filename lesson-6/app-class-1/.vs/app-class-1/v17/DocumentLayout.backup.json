@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\development\\itStep\\asp.net\\asp.net-classes\\lesson-6\\app-class-1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B555674-FA8F-4E0E-B264-1E4CF98C3366}|app-class-1\\app-class-1.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\lesson-6\\app-class-1\\app-class-1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B555674-FA8F-4E0E-B264-1E4CF98C3366}|app-class-1\\app-class-1.csproj|solutionrelative:app-class-1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B555674-FA8F-4E0E-B264-1E4CF98C3366}|app-class-1\\app-class-1.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\lesson-6\\app-class-1\\app-class-1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B555674-FA8F-4E0E-B264-1E4CF98C3366}|app-class-1\\app-class-1.csproj|solutionrelative:app-class-1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B555674-FA8F-4E0E-B264-1E4CF98C3366}|app-class-1\\app-class-1.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\lesson-6\\app-class-1\\app-class-1\\util\\htmlresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B555674-FA8F-4E0E-B264-1E4CF98C3366}|app-class-1\\app-class-1.csproj|solutionrelative:app-class-1\\util\\htmlresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\lesson-6\\app-class-1\\app-class-1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "app-class-1\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\development\\itStep\\asp.net\\asp.net-classes\\lesson-6\\app-class-1\\app-class-1\\Controllers\\HomeController.cs*",
+              "RelativeToolTip": "app-class-1\\Controllers\\HomeController.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T09:50:18.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HtmlResult.cs",
+              "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\lesson-6\\app-class-1\\app-class-1\\Util\\HtmlResult.cs",
+              "RelativeDocumentMoniker": "app-class-1\\Util\\HtmlResult.cs",
+              "ToolTip": "D:\\development\\itStep\\asp.net\\asp.net-classes\\lesson-6\\app-class-1\\app-class-1\\Util\\HtmlResult.cs",
+              "RelativeToolTip": "app-class-1\\Util\\HtmlResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T14:40:37.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\lesson-6\\app-class-1\\app-class-1\\Program.cs",
+              "RelativeDocumentMoniker": "app-class-1\\Program.cs",
+              "ToolTip": "D:\\development\\itStep\\asp.net\\asp.net-classes\\lesson-6\\app-class-1\\app-class-1\\Program.cs",
+              "RelativeToolTip": "app-class-1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T10:47:31.842Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
