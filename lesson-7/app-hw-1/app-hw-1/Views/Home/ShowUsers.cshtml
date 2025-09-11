@@ -1,0 +1,33 @@
+﻿@using app_hw_1.Models
+@model List<User>
+
+@{
+    ViewData["Title"] = "Users Page";
+}
+
+@* 1 способ ViewData *@
+<ul>
+    <h3>ViewData</h3>
+    @foreach (var user in ViewData["Users"] as List<User>)
+    {
+        <li>@user.Name - @user.Age - @user.Email</li>
+    }
+</ul>
+
+@* 2 способ ViewBag *@
+<ul>
+    <h3>ViewBag</h3>
+    @foreach (var user in ViewBag.Users)
+    {
+        <li>@user.Name - @user.Age - @user.Email</li>
+    }
+</ul>
+
+@* 3 способ Model *@
+<ul>
+    <h3>Model</h3>
+    @foreach (var user in Model)
+    {
+        <li>@user.Name - @user.Age - @user.Email</li>
+    }
+</ul>

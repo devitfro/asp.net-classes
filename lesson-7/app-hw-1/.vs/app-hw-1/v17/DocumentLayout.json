@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\development\\itStep\\asp.net\\asp.net-classes\\lesson-7\\app-hw-1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{436D64B0-D721-44DD-B762-031443E9DFB5}|app-hw-1\\app-hw-1.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\lesson-7\\app-hw-1\\app-hw-1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{436D64B0-D721-44DD-B762-031443E9DFB5}|app-hw-1\\app-hw-1.csproj|solutionrelative:app-hw-1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{436D64B0-D721-44DD-B762-031443E9DFB5}|app-hw-1\\app-hw-1.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\lesson-7\\app-hw-1\\app-hw-1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{436D64B0-D721-44DD-B762-031443E9DFB5}|app-hw-1\\app-hw-1.csproj|solutionrelative:app-hw-1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{436D64B0-D721-44DD-B762-031443E9DFB5}|app-hw-1\\app-hw-1.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\lesson-7\\app-hw-1\\app-hw-1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{436D64B0-D721-44DD-B762-031443E9DFB5}|app-hw-1\\app-hw-1.csproj|solutionrelative:app-hw-1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{436D64B0-D721-44DD-B762-031443E9DFB5}|app-hw-1\\app-hw-1.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\lesson-7\\app-hw-1\\app-hw-1\\views\\home\\showusers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{436D64B0-D721-44DD-B762-031443E9DFB5}|app-hw-1\\app-hw-1.csproj|solutionrelative:app-hw-1\\views\\home\\showusers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{436D64B0-D721-44DD-B762-031443E9DFB5}|app-hw-1\\app-hw-1.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\lesson-7\\app-hw-1\\app-hw-1\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{436D64B0-D721-44DD-B762-031443E9DFB5}|app-hw-1\\app-hw-1.csproj|solutionrelative:app-hw-1\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\lesson-7\\app-hw-1\\app-hw-1\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "app-hw-1\\Services\\UserService.cs",
+              "ToolTip": "D:\\development\\itStep\\asp.net\\asp.net-classes\\lesson-7\\app-hw-1\\app-hw-1\\Services\\UserService.cs",
+              "RelativeToolTip": "app-hw-1\\Services\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T13:47:11.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ShowUsers.cshtml",
+              "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\lesson-7\\app-hw-1\\app-hw-1\\Views\\Home\\ShowUsers.cshtml",
+              "RelativeDocumentMoniker": "app-hw-1\\Views\\Home\\ShowUsers.cshtml",
+              "ToolTip": "D:\\development\\itStep\\asp.net\\asp.net-classes\\lesson-7\\app-hw-1\\app-hw-1\\Views\\Home\\ShowUsers.cshtml",
+              "RelativeToolTip": "app-hw-1\\Views\\Home\\ShowUsers.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-11T13:38:26.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\lesson-7\\app-hw-1\\app-hw-1\\Program.cs",
+              "RelativeDocumentMoniker": "app-hw-1\\Program.cs",
+              "ToolTip": "D:\\development\\itStep\\asp.net\\asp.net-classes\\lesson-7\\app-hw-1\\app-hw-1\\Program.cs",
+              "RelativeToolTip": "app-hw-1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T13:22:20.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\lesson-7\\app-hw-1\\app-hw-1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "app-hw-1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\development\\itStep\\asp.net\\asp.net-classes\\lesson-7\\app-hw-1\\app-hw-1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "app-hw-1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-11T12:56:02.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\lesson-7\\app-hw-1\\app-hw-1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "app-hw-1\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\development\\itStep\\asp.net\\asp.net-classes\\lesson-7\\app-hw-1\\app-hw-1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "app-hw-1\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T12:55:49.42Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
