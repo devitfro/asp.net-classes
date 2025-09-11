@@ -1,0 +1,37 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome to exchange app</h1>
+
+    <form asp-action="Convert" method="post">
+        <h3>Select the currency you are changing:</h3>
+        <select name="FromCurrency">
+            @foreach (var currency in ViewBag.Currencies)
+            {
+                <option value="@currency">@currency</option>
+            }
+        </select>
+
+        <h3>Select the currency you are exchanging to:</h3>
+        <select name="ToCurrency">
+            @foreach (var currency in ViewBag.Currencies)
+            {
+                <option value="@currency">@currency</option>
+            }
+        </select>
+
+        <h3>Input sum:</h3>
+        <input type="number" name="Amount" />
+
+        <div class="m-3">
+            <button class="btn btn-primary" type="submit">Convert</button>
+        </div>
+    </form>
+
+    @if (ViewBag.Result != null)
+    {
+        <h3>Result: @ViewBag.Result</h3>
+    }
+</div>
