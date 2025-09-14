@@ -1,0 +1,12 @@
+﻿@using app_hw.ViewModels
+@model IEnumerable<BookViewModel>
+
+<ul>
+    @foreach (var book in Model)
+    {
+        <li>@book.Title by @book.Author - @book.Year - @book.Genre</li>
+    }
+</ul>
+
+
+

@@ -1,0 +1,34 @@
+﻿@using app_class_1.ViewModels
+
+@{
+    ViewData["Title"] = "Create Phone";
+}
+
+@model PhoneViewModel
+
+<form method="post">
+
+    <div class="form-group">
+        <label>Name</label>
+        <input type="text" name="name" class="form-control" placeholder="Enter name">
+    </div>
+
+    <div class="form-group">
+        <label>Price</label>
+        <input type="number" name="price" class="form-control" placeholder="Enter price">
+    </div>
+
+    <div class="form-group">
+        <label>Manufacturer</label>
+        <select name="companyId" class="form-select">
+            @foreach (CompanyViewModel comp in ViewBag.Companies)
+            {
+                <option value="@comp.Id">@comp.Name</option>
+            }
+        </select>
+    </div>
+
+    <div class="form-group mt-3">
+        <button type="submit" class="btn btn-primary">Submit</button>
+    </div>
+</form>

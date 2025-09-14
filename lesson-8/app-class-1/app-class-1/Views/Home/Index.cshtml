@@ -1,0 +1,33 @@
+﻿@using app_class_1.ViewModels
+
+@{
+    ViewData["Title"] = "Phones Catalog";
+}
+
+@model IndexViewModel
+
+<form class="form-inline">
+    <label>Choose a company:</label>
+    <select name="companyId">
+        @foreach (CompanyViewModel comp in Model.Companies)
+        {
+            @if(comp.Id == Model.SelectedCompanyId)
+            {
+                <option selected value="@comp.Id">@comp.Name</option>
+            }
+            else
+            {
+                <option value="@comp.Id">@comp.Name</option>
+            }       
+        }
+    </select>
+    <input type="submit" />
+</form>
+
+<div class="mt-3"></div>
+<table class="table">
+    @foreach (Phone p in Model.Phones)
+    {
+        <tr><td>@p.Name</td><td>@p.Manufacturer?.Name</td><td>@p.Price</td></tr>
+    }
+</table>
