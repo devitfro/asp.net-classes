@@ -1,0 +1,16 @@
+﻿@model Payer
+
+<h2>Payment Result</h2>
+
+<p>First name: @Model.FirstName</p>
+<p>Last name: @Model.LastName</p>
+<p>Address: @Model.Address</p>
+
+<h3>Your Bills</h3>
+<ul>
+    <li>Gas: @Model.GasBill</li>
+    <li>Electricity: @Model.LightBill</li>
+    <li>Water: @Model.WaterBill</li>
+</ul>
+
+<a href="@Url.Action("Form", "Home")">Back</a>

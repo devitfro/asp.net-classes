@@ -1,0 +1,127 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\development\\itStep\\asp.net\\asp.net-classes\\lesson-9\\app-class-2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF634D33-850A-4F9D-9E76-B8F40BCC1AEF}|app-class-2\\app-class-2.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\lesson-9\\app-class-2\\app-class-2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF634D33-850A-4F9D-9E76-B8F40BCC1AEF}|app-class-2\\app-class-2.csproj|solutionrelative:app-class-2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF634D33-850A-4F9D-9E76-B8F40BCC1AEF}|app-class-2\\app-class-2.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\lesson-9\\app-class-2\\app-class-2\\views\\home\\form.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF634D33-850A-4F9D-9E76-B8F40BCC1AEF}|app-class-2\\app-class-2.csproj|solutionrelative:app-class-2\\views\\home\\form.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF634D33-850A-4F9D-9E76-B8F40BCC1AEF}|app-class-2\\app-class-2.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\lesson-9\\app-class-2\\app-class-2\\views\\home\\result.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF634D33-850A-4F9D-9E76-B8F40BCC1AEF}|app-class-2\\app-class-2.csproj|solutionrelative:app-class-2\\views\\home\\result.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF634D33-850A-4F9D-9E76-B8F40BCC1AEF}|app-class-2\\app-class-2.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\lesson-9\\app-class-2\\app-class-2\\models\\utilitypayments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF634D33-850A-4F9D-9E76-B8F40BCC1AEF}|app-class-2\\app-class-2.csproj|solutionrelative:app-class-2\\models\\utilitypayments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF634D33-850A-4F9D-9E76-B8F40BCC1AEF}|app-class-2\\app-class-2.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\lesson-9\\app-class-2\\app-class-2\\models\\payer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF634D33-850A-4F9D-9E76-B8F40BCC1AEF}|app-class-2\\app-class-2.csproj|solutionrelative:app-class-2\\models\\payer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF634D33-850A-4F9D-9E76-B8F40BCC1AEF}|app-class-2\\app-class-2.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\lesson-9\\app-class-2\\app-class-2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF634D33-850A-4F9D-9E76-B8F40BCC1AEF}|app-class-2\\app-class-2.csproj|solutionrelative:app-class-2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Payer.cs",
+              "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\lesson-9\\app-class-2\\app-class-2\\Models\\Payer.cs",
+              "RelativeDocumentMoniker": "app-class-2\\Models\\Payer.cs",
+              "ToolTip": "D:\\development\\itStep\\asp.net\\asp.net-classes\\lesson-9\\app-class-2\\app-class-2\\Models\\Payer.cs",
+              "RelativeToolTip": "app-class-2\\Models\\Payer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T11:46:23.483Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Result.cshtml",
+              "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\lesson-9\\app-class-2\\app-class-2\\Views\\Home\\Result.cshtml",
+              "RelativeDocumentMoniker": "app-class-2\\Views\\Home\\Result.cshtml",
+              "ToolTip": "D:\\development\\itStep\\asp.net\\asp.net-classes\\lesson-9\\app-class-2\\app-class-2\\Views\\Home\\Result.cshtml*",
+              "RelativeToolTip": "app-class-2\\Views\\Home\\Result.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-18T13:41:30.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UtilityPayments.cs",
+              "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\lesson-9\\app-class-2\\app-class-2\\Models\\UtilityPayments.cs",
+              "RelativeDocumentMoniker": "app-class-2\\Models\\UtilityPayments.cs",
+              "ToolTip": "D:\\development\\itStep\\asp.net\\asp.net-classes\\lesson-9\\app-class-2\\app-class-2\\Models\\UtilityPayments.cs",
+              "RelativeToolTip": "app-class-2\\Models\\UtilityPayments.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T13:36:06.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\lesson-9\\app-class-2\\app-class-2\\Program.cs",
+              "RelativeDocumentMoniker": "app-class-2\\Program.cs",
+              "ToolTip": "D:\\development\\itStep\\asp.net\\asp.net-classes\\lesson-9\\app-class-2\\app-class-2\\Program.cs",
+              "RelativeToolTip": "app-class-2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T12:01:04.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form.cshtml",
+              "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\lesson-9\\app-class-2\\app-class-2\\Views\\Home\\Form.cshtml",
+              "RelativeDocumentMoniker": "app-class-2\\Views\\Home\\Form.cshtml",
+              "ToolTip": "D:\\development\\itStep\\asp.net\\asp.net-classes\\lesson-9\\app-class-2\\app-class-2\\Views\\Home\\Form.cshtml*",
+              "RelativeToolTip": "app-class-2\\Views\\Home\\Form.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-18T11:48:12.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\lesson-9\\app-class-2\\app-class-2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "app-class-2\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\development\\itStep\\asp.net\\asp.net-classes\\lesson-9\\app-class-2\\app-class-2\\Controllers\\HomeController.cs*",
+              "RelativeToolTip": "app-class-2\\Controllers\\HomeController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAYwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T11:47:51.011Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

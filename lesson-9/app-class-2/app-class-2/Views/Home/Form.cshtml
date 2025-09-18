@@ -1,0 +1,35 @@
+﻿@model app_class_2.Models.Payer
+
+@using (Html.BeginForm("Form", "Home", FormMethod.Post))
+{
+    <p>
+        @Html.LabelFor(m => m.FirstName, "Enter your firstname:")
+        @Html.TextBoxFor(m => m.FirstName)
+    </p>
+
+    <p>
+        @Html.LabelFor(m => m.LastName, "Enter your lastname:")
+        @Html.TextBoxFor(m => m.LastName)
+    </p>
+
+    <p>
+        @Html.LabelFor(m => m.Address, "Enter your address:")
+        @Html.TextAreaFor(m => m.Address, 5, 30, null)
+    </p>
+
+    <h3>Utility Payments</h3>
+    <p>
+        @Html.LabelFor(m => m.GasBill, "Gas:")
+        @Html.TextBoxFor(m => m.GasBill, new { type = "number" })
+    </p>
+    <p>
+        @Html.LabelFor(m => m.LightBill, "Electricity:")
+        @Html.TextBoxFor(m => m.LightBill, new { type = "number" })
+    </p>
+    <p>
+        @Html.LabelFor(m => m.WaterBill, "Water:")
+        @Html.TextBoxFor(m => m.WaterBill, new { type = "number"})
+    </p>
+
+    <input type="submit" value="Submit" />
+}
