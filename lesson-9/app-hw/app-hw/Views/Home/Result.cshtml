@@ -1,0 +1,19 @@
+﻿@model Matrix
+@{
+    ViewData["Title"] = "Result";
+}
+
+<h2>Result:</h2>
+
+<table border="1">
+    @for (int i = 0; i < Model.Size; i++)
+    {
+        <tr>
+            @for (int j = 0; j < Model.Size; j++)
+            {
+                <td>@Model.Result[i * Model.Size + j]</td>
+            }
+        </tr>
+    }
+</table>
+

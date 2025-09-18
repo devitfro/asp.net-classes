@@ -1,0 +1,14 @@
+﻿@model Matrix
+
+@{
+    ViewData["Title"] = "Matrix";
+}
+
+<h2>Choose matrix size:</h2>
+
+@using (Html.BeginForm("Matrix", "Home", FormMethod.Post))
+{
+    @Html.DropDownList("Size", new SelectList(new[] { 3, 6, 9 }), "Select size")
+    <br />
+    <input type="submit" value="Choose" />
+}
