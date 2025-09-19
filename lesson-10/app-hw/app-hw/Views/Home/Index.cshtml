@@ -1,0 +1,26 @@
+﻿
+@model IEnumerable<Book>
+
+@{
+    ViewBag.Title = "All books:";
+}
+
+<a asp-action="Create" class="btn btn-primary">Add book</a>
+
+<div class="col p-3"></div>
+<div class="row">
+    <table class="table">
+        <tr><th>Title</th><th>Author</th><th>Year</th><th>Genre</th><th>Comment</th></tr>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Title</td>
+                <td>@item.Author</td>
+                <td>@item.Year</td>
+                <td>@item.Genre</td>       
+         
+                <td><a asp-action="Details" asp-route-id="@item.Id">About...</a></td>
+            </tr>
+        }
+    </table>
+</div>

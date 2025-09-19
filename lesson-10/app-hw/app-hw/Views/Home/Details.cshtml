@@ -1,0 +1,20 @@
+﻿@model Book
+
+<h2>@Model.Title</h2>
+<p><b>Author:</b> @Model.Author</p>
+<p><b>Year:</b> @Model.Year</p>
+<p><b>Genre:</b> @Model.Genre</p>
+
+<h3>Comments</h3>
+<ul>
+    @foreach (var c in Model.Comments)
+    {
+        <li>@c.Text</li>
+    }
+</ul>
+
+<form asp-action="AddComment" method="post">
+    <input type="hidden" name="bookId" value="@Model.Id" />
+    <textarea name="text" class="form-control" placeholder="Add comments"></textarea>
+    <button type="submit" class="btn btn-primary mt-2">Send</button>
+</form>
