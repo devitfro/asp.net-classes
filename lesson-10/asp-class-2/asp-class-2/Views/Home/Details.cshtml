@@ -1,0 +1,19 @@
+﻿@model User
+
+@{
+    ViewBag.Title = Model.Name;
+}
+
+<h2>Пользователь @Model.Name</h2>
+
+<div class="form-group p-3"></div>
+
+<div>
+    <dl class="dl-horizontal">
+        <dt>Идентификатор</dt>
+        <dd>@Model.Id</dd>
+
+        <dt>Возраст</dt>
+        <dd>@Model.Age</dd>
+    </dl>
+</div>

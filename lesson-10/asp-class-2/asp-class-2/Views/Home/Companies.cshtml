@@ -1,0 +1,22 @@
+﻿@model IEnumerable<Company>
+
+@{
+    ViewBag.Title = "Все компании";
+}
+
+<a asp-action="CompanyCreate" class="btn btn-primary">Добавить компанию</a>
+
+<div class="col p-3"></div>
+<div class="row">
+    <table class="table">
+        <tr>
+            <td>Название</td>
+        </tr>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Name</td>
+            </tr>
+        }
+    </table>
+</div>

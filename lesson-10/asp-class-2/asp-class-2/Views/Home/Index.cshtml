@@ -1,0 +1,54 @@
+﻿@using asp_class_2.ViewModels
+@model UserListViewModel
+
+@{
+    ViewBag.Title = "Все пользователи";
+}
+
+<a asp-action="Create" class="btn btn-primary">Добавить пользователя</a>
+
+<form method="get">
+    <div class="form-inline form-group">
+        <label class="control-label">Имя: </label>
+        <input name="name" class="form-control" value="@Model.Name" />
+
+        <label class="control-label">Компания: </label>
+        <select name="company" asp-items="Model.Companies" class="form-control"></select>
+
+        <input type="submit" value="Фильтр" class="btn btn-primary" />
+    </div>
+</form>
+
+<div class="col p-3"></div>
+<div class="row">
+    <table class="table">
+        <tr>
+            <td>
+                <a asp-action="Index" asp-route-sortOrder="@ViewBag.NameSort">
+                    Имя
+                </a>
+            </td>
+            <td>
+                <a asp-action="Index" asp-route-sortOrder="@ViewBag.AgeSort">
+                    Возраст
+                </a>
+            </td>
+            <td>Компания</td>
+        </tr>
+        @foreach (var item in Model.Users)
+        {
+            <tr>
+                <td>@item.Name</td>
+                <td>@item.Age</td>
+                <td>@item.Company?.Name</td>
+            
+                <td>
+                    <a asp-action="Details" asp-controller="Home" asp-route-id="@item.Id">Подробнее</a> |
+                    <a asp-action="Edit" asp-controller="Home" asp-route-id="@item.Id">Изменить</a> |
+                    <a asp-action="Delete" asp-controller="Home" asp-route-id="@item.Id">Удалить</a>
+                </td>
+            </tr>
+        }
+      
+    </table>
+</div>
