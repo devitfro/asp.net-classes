@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\development\\itStep\\asp.net\\asp.net-classes\\lesson-10\\app-class-1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD802B5A-4920-4A4F-817A-59F1650CB0B6}|app-class-1\\app-class-1.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\lesson-10\\app-class-1\\app-class-1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD802B5A-4920-4A4F-817A-59F1650CB0B6}|app-class-1\\app-class-1.csproj|solutionrelative:app-class-1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD802B5A-4920-4A4F-817A-59F1650CB0B6}|app-class-1\\app-class-1.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\lesson-10\\app-class-1\\app-class-1\\views\\shared\\components\\info\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD802B5A-4920-4A4F-817A-59F1650CB0B6}|app-class-1\\app-class-1.csproj|solutionrelative:app-class-1\\views\\shared\\components\\info\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD802B5A-4920-4A4F-817A-59F1650CB0B6}|app-class-1\\app-class-1.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\lesson-10\\app-class-1\\app-class-1\\components\\infoviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD802B5A-4920-4A4F-817A-59F1650CB0B6}|app-class-1\\app-class-1.csproj|solutionrelative:app-class-1\\components\\infoviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\lesson-10\\app-class-1\\app-class-1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "app-class-1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\development\\itStep\\asp.net\\asp.net-classes\\lesson-10\\app-class-1\\app-class-1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "app-class-1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-18T15:53:14.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\lesson-10\\app-class-1\\app-class-1\\Views\\Shared\\Components\\Info\\Default.cshtml",
+              "RelativeDocumentMoniker": "app-class-1\\Views\\Shared\\Components\\Info\\Default.cshtml",
+              "ToolTip": "D:\\development\\itStep\\asp.net\\asp.net-classes\\lesson-10\\app-class-1\\app-class-1\\Views\\Shared\\Components\\Info\\Default.cshtml",
+              "RelativeToolTip": "app-class-1\\Views\\Shared\\Components\\Info\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-18T15:52:12.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InfoViewComponent.cs",
+              "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\lesson-10\\app-class-1\\app-class-1\\Components\\InfoViewComponent.cs",
+              "RelativeDocumentMoniker": "app-class-1\\Components\\InfoViewComponent.cs",
+              "ToolTip": "D:\\development\\itStep\\asp.net\\asp.net-classes\\lesson-10\\app-class-1\\app-class-1\\Components\\InfoViewComponent.cs",
+              "RelativeToolTip": "app-class-1\\Components\\InfoViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T15:50:41.747Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

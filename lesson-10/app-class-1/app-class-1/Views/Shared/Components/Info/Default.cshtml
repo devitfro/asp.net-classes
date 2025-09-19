@@ -1,0 +1,10 @@
+﻿@model app_class_1.Components.SiteInfoModel
+
+<div class="site-info widget card p-3">
+    <h4>@Model.Title</h4>
+    <div class="d-flex align-items-start">
+        <img src="@(Url.Content(Model.ImageUrl))" alt="site image" style="max-width:120px; max-height:120px; margin-right:12px;" />
+        <p class="m-0">@Model.Description</p>
+    </div>
+    <small class="text-muted d-block mt-2">© @DateTime.UtcNow.Year — My Site</small>
+</div>

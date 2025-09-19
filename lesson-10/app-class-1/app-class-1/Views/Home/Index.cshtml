@@ -1,0 +1,15 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+    User user = new User { Name = "Alex", Age = 30 };
+}
+
+
+@* @await Component.InvokeAsync("Timer")
+
+@await Component.InvokeAsync("Person", user)
+
+@await Component.InvokeAsync("UsersList") *@
+
+@* @await Component.InvokeAsync("Leaders") *@
+
+@await Component.InvokeAsync("Info", new { title = "О нас", description = "Сайт.", imagePath = "~/image1.png" })
