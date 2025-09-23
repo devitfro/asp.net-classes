@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\development\\itStep\\asp.net\\asp.net-classes\\lesson-11\\app-hw\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7E0E69E-252E-4C11-97BE-3B12F3DEB991}|app-hw\\app-hw.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\lesson-11\\app-hw\\app-hw\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7E0E69E-252E-4C11-97BE-3B12F3DEB991}|app-hw\\app-hw.csproj|solutionrelative:app-hw\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7E0E69E-252E-4C11-97BE-3B12F3DEB991}|app-hw\\app-hw.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\lesson-11\\app-hw\\app-hw\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7E0E69E-252E-4C11-97BE-3B12F3DEB991}|app-hw\\app-hw.csproj|solutionrelative:app-hw\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7E0E69E-252E-4C11-97BE-3B12F3DEB991}|app-hw\\app-hw.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\lesson-11\\app-hw\\app-hw\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7E0E69E-252E-4C11-97BE-3B12F3DEB991}|app-hw\\app-hw.csproj|solutionrelative:app-hw\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7E0E69E-252E-4C11-97BE-3B12F3DEB991}|app-hw\\app-hw.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\lesson-11\\app-hw\\app-hw\\data\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7E0E69E-252E-4C11-97BE-3B12F3DEB991}|app-hw\\app-hw.csproj|solutionrelative:app-hw\\data\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationContext.cs",
+              "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\lesson-11\\app-hw\\app-hw\\Data\\ApplicationContext.cs",
+              "RelativeDocumentMoniker": "app-hw\\Data\\ApplicationContext.cs",
+              "ToolTip": "D:\\development\\itStep\\asp.net\\asp.net-classes\\lesson-11\\app-hw\\app-hw\\Data\\ApplicationContext.cs",
+              "RelativeToolTip": "app-hw\\Data\\ApplicationContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T15:00:56.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\lesson-11\\app-hw\\app-hw\\Models\\User.cs",
+              "RelativeDocumentMoniker": "app-hw\\Models\\User.cs",
+              "ToolTip": "D:\\development\\itStep\\asp.net\\asp.net-classes\\lesson-11\\app-hw\\app-hw\\Models\\User.cs",
+              "RelativeToolTip": "app-hw\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T14:59:22.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\lesson-11\\app-hw\\app-hw\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "app-hw\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\development\\itStep\\asp.net\\asp.net-classes\\lesson-11\\app-hw\\app-hw\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "app-hw\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T14:44:32.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\lesson-11\\app-hw\\app-hw\\ViewModels\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "app-hw\\ViewModels\\RegisterViewModel.cs",
+              "ToolTip": "D:\\development\\itStep\\asp.net\\asp.net-classes\\lesson-11\\app-hw\\app-hw\\ViewModels\\RegisterViewModel.cs",
+              "RelativeToolTip": "app-hw\\ViewModels\\RegisterViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T14:44:16.242Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
