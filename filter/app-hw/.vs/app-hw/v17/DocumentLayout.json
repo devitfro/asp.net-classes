@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\development\\itStep\\asp.net\\asp.net-classes\\filter\\app-hw\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3650D65-27D1-45C3-AFCB-6ED20BE103A2}|app-hw\\app-hw.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\filter\\app-hw\\app-hw\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A3650D65-27D1-45C3-AFCB-6ED20BE103A2}|app-hw\\app-hw.csproj|solutionrelative:app-hw\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3650D65-27D1-45C3-AFCB-6ED20BE103A2}|app-hw\\app-hw.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\filter\\app-hw\\app-hw\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3650D65-27D1-45C3-AFCB-6ED20BE103A2}|app-hw\\app-hw.csproj|solutionrelative:app-hw\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3650D65-27D1-45C3-AFCB-6ED20BE103A2}|app-hw\\app-hw.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\filter\\app-hw\\app-hw\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3650D65-27D1-45C3-AFCB-6ED20BE103A2}|app-hw\\app-hw.csproj|solutionrelative:app-hw\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3650D65-27D1-45C3-AFCB-6ED20BE103A2}|app-hw\\app-hw.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\filter\\app-hw\\app-hw\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A3650D65-27D1-45C3-AFCB-6ED20BE103A2}|app-hw\\app-hw.csproj|solutionrelative:app-hw\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3650D65-27D1-45C3-AFCB-6ED20BE103A2}|app-hw\\app-hw.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\filter\\app-hw\\app-hw\\views\\home\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A3650D65-27D1-45C3-AFCB-6ED20BE103A2}|app-hw\\app-hw.csproj|solutionrelative:app-hw\\views\\home\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3650D65-27D1-45C3-AFCB-6ED20BE103A2}|app-hw\\app-hw.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\filter\\app-hw\\app-hw\\views\\home\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A3650D65-27D1-45C3-AFCB-6ED20BE103A2}|app-hw\\app-hw.csproj|solutionrelative:app-hw\\views\\home\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3650D65-27D1-45C3-AFCB-6ED20BE103A2}|app-hw\\app-hw.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\filter\\app-hw\\app-hw\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3650D65-27D1-45C3-AFCB-6ED20BE103A2}|app-hw\\app-hw.csproj|solutionrelative:app-hw\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3650D65-27D1-45C3-AFCB-6ED20BE103A2}|app-hw\\app-hw.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\filter\\app-hw\\app-hw\\filters\\logactionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3650D65-27D1-45C3-AFCB-6ED20BE103A2}|app-hw\\app-hw.csproj|solutionrelative:app-hw\\filters\\logactionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3650D65-27D1-45C3-AFCB-6ED20BE103A2}|app-hw\\app-hw.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\filter\\app-hw\\app-hw\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3650D65-27D1-45C3-AFCB-6ED20BE103A2}|app-hw\\app-hw.csproj|solutionrelative:app-hw\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3650D65-27D1-45C3-AFCB-6ED20BE103A2}|app-hw\\app-hw.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\filter\\app-hw\\app-hw\\models\\letter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3650D65-27D1-45C3-AFCB-6ED20BE103A2}|app-hw\\app-hw.csproj|solutionrelative:app-hw\\models\\letter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\filter\\app-hw\\app-hw\\Program.cs",
+              "RelativeDocumentMoniker": "app-hw\\Program.cs",
+              "ToolTip": "D:\\development\\itStep\\asp.net\\asp.net-classes\\filter\\app-hw\\app-hw\\Program.cs",
+              "RelativeToolTip": "app-hw\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T17:42:02.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\filter\\app-hw\\app-hw\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "app-hw\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\development\\itStep\\asp.net\\asp.net-classes\\filter\\app-hw\\app-hw\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "app-hw\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-28T17:41:30.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\filter\\app-hw\\app-hw\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "app-hw\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\development\\itStep\\asp.net\\asp.net-classes\\filter\\app-hw\\app-hw\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "app-hw\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAQwB0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T17:40:27.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\filter\\app-hw\\app-hw\\appsettings.json",
+              "RelativeDocumentMoniker": "app-hw\\appsettings.json",
+              "ToolTip": "D:\\development\\itStep\\asp.net\\asp.net-classes\\filter\\app-hw\\app-hw\\appsettings.json",
+              "RelativeToolTip": "app-hw\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-28T17:38:35.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\filter\\app-hw\\app-hw\\Views\\Home\\Error.cshtml",
+              "RelativeDocumentMoniker": "app-hw\\Views\\Home\\Error.cshtml",
+              "ToolTip": "D:\\development\\itStep\\asp.net\\asp.net-classes\\filter\\app-hw\\app-hw\\Views\\Home\\Error.cshtml",
+              "RelativeToolTip": "app-hw\\Views\\Home\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-28T17:37:32.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Success.cshtml",
+              "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\filter\\app-hw\\app-hw\\Views\\Home\\Success.cshtml",
+              "RelativeDocumentMoniker": "app-hw\\Views\\Home\\Success.cshtml",
+              "ToolTip": "D:\\development\\itStep\\asp.net\\asp.net-classes\\filter\\app-hw\\app-hw\\Views\\Home\\Success.cshtml",
+              "RelativeToolTip": "app-hw\\Views\\Home\\Success.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-28T17:37:18.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\filter\\app-hw\\app-hw\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "app-hw\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\development\\itStep\\asp.net\\asp.net-classes\\filter\\app-hw\\app-hw\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "app-hw\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T17:37:04.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\filter\\app-hw\\app-hw\\Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "app-hw\\Services\\EmailService.cs",
+              "ToolTip": "D:\\development\\itStep\\asp.net\\asp.net-classes\\filter\\app-hw\\app-hw\\Services\\EmailService.cs",
+              "RelativeToolTip": "app-hw\\Services\\EmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T17:36:43.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Letter.cs",
+              "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\filter\\app-hw\\app-hw\\Models\\Letter.cs",
+              "RelativeDocumentMoniker": "app-hw\\Models\\Letter.cs",
+              "ToolTip": "D:\\development\\itStep\\asp.net\\asp.net-classes\\filter\\app-hw\\app-hw\\Models\\Letter.cs",
+              "RelativeToolTip": "app-hw\\Models\\Letter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T17:36:18.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LogActionFilter.cs",
+              "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\filter\\app-hw\\app-hw\\Filters\\LogActionFilter.cs",
+              "RelativeDocumentMoniker": "app-hw\\Filters\\LogActionFilter.cs",
+              "ToolTip": "D:\\development\\itStep\\asp.net\\asp.net-classes\\filter\\app-hw\\app-hw\\Filters\\LogActionFilter.cs",
+              "RelativeToolTip": "app-hw\\Filters\\LogActionFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T17:35:59.625Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

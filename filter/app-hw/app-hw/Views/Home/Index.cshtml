@@ -1,0 +1,31 @@
+﻿@model Letter
+
+<h2>Отправь письмо в будущее себе</h2>
+
+<form asp-action="Index" method="post">
+    <div>
+        <label>Имя:</label>
+        <input asp-for="Name" />
+        <span asp-validation-for="Name"></span>
+    </div>
+
+    <div>
+        <label>Email:</label>
+        <input asp-for="Email" />
+        <span asp-validation-for="Email"></span>
+    </div>
+
+    <div>
+        <label>Сообщение:</label>
+        <textarea asp-for="Message"></textarea>
+        <span asp-validation-for="Message"></span>
+    </div>
+
+    <div>
+        <label>Дата отправки:</label>
+        <input asp-for="DeliveryDate" type="date" />
+        <span asp-validation-for="DeliveryDate"></span>
+    </div>
+
+    <button type="submit">Отправить письмо</button>
+</form>
