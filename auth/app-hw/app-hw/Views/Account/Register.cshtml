@@ -1,0 +1,15 @@
+﻿@model User
+
+<h2>Регистрация</h2>
+
+<form asp-action="Register" method="post">
+    <label>Логин:</label>
+    <input asp-for="Username" /><br />
+    <label>Пароль:</label>
+    <input asp-for="Password" type="password" /><br />
+    <label>Email:</label>
+    <input asp-for="Email" /><br />
+    <button type="submit">Зарегистрироваться</button>
+</form>
+
+<a href="/Account/Login">Уже есть аккаунт?</a>

@@ -1,0 +1,13 @@
+﻿<h2>Вход</h2>
+
+<form asp-action="Login" method="post">
+    <label>Логин:</label>
+    <input name="username" /><br />
+    <label>Пароль:</label>
+    <input name="password" type="password" /><br />
+    <button type="submit">Войти</button>
+</form>
+
+<p style="color:red">@ViewBag.Error</p>
+
+<a href="/Account/Register">Регистрация</a>

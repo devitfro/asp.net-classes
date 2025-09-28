@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\development\\itStep\\asp.net\\asp.net-classes\\auth\\app-hw\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{744FA5A8-C60C-488C-8307-C995FC909D14}|app-hw\\app-hw.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\auth\\app-hw\\app-hw\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{744FA5A8-C60C-488C-8307-C995FC909D14}|app-hw\\app-hw.csproj|solutionrelative:app-hw\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{744FA5A8-C60C-488C-8307-C995FC909D14}|app-hw\\app-hw.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\auth\\app-hw\\app-hw\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{744FA5A8-C60C-488C-8307-C995FC909D14}|app-hw\\app-hw.csproj|solutionrelative:app-hw\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{744FA5A8-C60C-488C-8307-C995FC909D14}|app-hw\\app-hw.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\auth\\app-hw\\app-hw\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{744FA5A8-C60C-488C-8307-C995FC909D14}|app-hw\\app-hw.csproj|solutionrelative:app-hw\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{744FA5A8-C60C-488C-8307-C995FC909D14}|app-hw\\app-hw.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\auth\\app-hw\\app-hw\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{744FA5A8-C60C-488C-8307-C995FC909D14}|app-hw\\app-hw.csproj|solutionrelative:app-hw\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{744FA5A8-C60C-488C-8307-C995FC909D14}|app-hw\\app-hw.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\auth\\app-hw\\app-hw\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{744FA5A8-C60C-488C-8307-C995FC909D14}|app-hw\\app-hw.csproj|solutionrelative:app-hw\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{744FA5A8-C60C-488C-8307-C995FC909D14}|app-hw\\app-hw.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\auth\\app-hw\\app-hw\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{744FA5A8-C60C-488C-8307-C995FC909D14}|app-hw\\app-hw.csproj|solutionrelative:app-hw\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{744FA5A8-C60C-488C-8307-C995FC909D14}|app-hw\\app-hw.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\auth\\app-hw\\app-hw\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{744FA5A8-C60C-488C-8307-C995FC909D14}|app-hw\\app-hw.csproj|solutionrelative:app-hw\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{744FA5A8-C60C-488C-8307-C995FC909D14}|app-hw\\app-hw.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\auth\\app-hw\\app-hw\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{744FA5A8-C60C-488C-8307-C995FC909D14}|app-hw\\app-hw.csproj|solutionrelative:app-hw\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{744FA5A8-C60C-488C-8307-C995FC909D14}|app-hw\\app-hw.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\auth\\app-hw\\app-hw\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{744FA5A8-C60C-488C-8307-C995FC909D14}|app-hw\\app-hw.csproj|solutionrelative:app-hw\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{744FA5A8-C60C-488C-8307-C995FC909D14}|app-hw\\app-hw.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\auth\\app-hw\\app-hw\\views\\home\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{744FA5A8-C60C-488C-8307-C995FC909D14}|app-hw\\app-hw.csproj|solutionrelative:app-hw\\views\\home\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{744FA5A8-C60C-488C-8307-C995FC909D14}|app-hw\\app-hw.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\auth\\app-hw\\app-hw\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{744FA5A8-C60C-488C-8307-C995FC909D14}|app-hw\\app-hw.csproj|solutionrelative:app-hw\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\auth\\app-hw\\app-hw\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "app-hw\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\development\\itStep\\asp.net\\asp.net-classes\\auth\\app-hw\\app-hw\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "app-hw\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-28T17:30:24.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\auth\\app-hw\\app-hw\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "app-hw\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\development\\itStep\\asp.net\\asp.net-classes\\auth\\app-hw\\app-hw\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "app-hw\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-28T17:30:23.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\auth\\app-hw\\app-hw\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "app-hw\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\development\\itStep\\asp.net\\asp.net-classes\\auth\\app-hw\\app-hw\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "app-hw\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T17:28:57.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\auth\\app-hw\\app-hw\\appsettings.json",
+              "RelativeDocumentMoniker": "app-hw\\appsettings.json",
+              "ToolTip": "D:\\development\\itStep\\asp.net\\asp.net-classes\\auth\\app-hw\\app-hw\\appsettings.json",
+              "RelativeToolTip": "app-hw\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-28T17:28:20.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\auth\\app-hw\\app-hw\\Program.cs",
+              "RelativeDocumentMoniker": "app-hw\\Program.cs",
+              "ToolTip": "D:\\development\\itStep\\asp.net\\asp.net-classes\\auth\\app-hw\\app-hw\\Program.cs",
+              "RelativeToolTip": "app-hw\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T17:26:55.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\auth\\app-hw\\app-hw\\Views\\Home\\Profile.cshtml",
+              "RelativeDocumentMoniker": "app-hw\\Views\\Home\\Profile.cshtml",
+              "ToolTip": "D:\\development\\itStep\\asp.net\\asp.net-classes\\auth\\app-hw\\app-hw\\Views\\Home\\Profile.cshtml",
+              "RelativeToolTip": "app-hw\\Views\\Home\\Profile.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-28T17:25:45.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\auth\\app-hw\\app-hw\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "app-hw\\Views\\Account\\Register.cshtml",
+              "ToolTip": "D:\\development\\itStep\\asp.net\\asp.net-classes\\auth\\app-hw\\app-hw\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "app-hw\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-28T17:25:30.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\auth\\app-hw\\app-hw\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "app-hw\\Views\\Account\\Login.cshtml",
+              "ToolTip": "D:\\development\\itStep\\asp.net\\asp.net-classes\\auth\\app-hw\\app-hw\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "app-hw\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-28T17:25:18.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\auth\\app-hw\\app-hw\\Models\\User.cs",
+              "RelativeDocumentMoniker": "app-hw\\Models\\User.cs",
+              "ToolTip": "D:\\development\\itStep\\asp.net\\asp.net-classes\\auth\\app-hw\\app-hw\\Models\\User.cs",
+              "RelativeToolTip": "app-hw\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T17:24:53.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\auth\\app-hw\\app-hw\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "app-hw\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\development\\itStep\\asp.net\\asp.net-classes\\auth\\app-hw\\app-hw\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "app-hw\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T17:24:38.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\auth\\app-hw\\app-hw\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "app-hw\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\development\\itStep\\asp.net\\asp.net-classes\\auth\\app-hw\\app-hw\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "app-hw\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T17:24:12.514Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
