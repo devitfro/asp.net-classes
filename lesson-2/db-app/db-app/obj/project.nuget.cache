@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DQ8bUSXBvX4=",
+  "dgSpecHash": "NL6U5tOgXp8=",
   "success": true,
-  "projectFilePath": "D:\\development\\itStep\\asp.net\\asp.net-classes\\lesson2\\db-app\\db-app\\db-app.csproj",
+  "projectFilePath": "D:\\development\\itStep\\asp.net\\asp.net-classes\\lesson-2\\db-app\\db-app\\db-app.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\alina\\.nuget\\packages\\azure.core\\1.47.1\\azure.core.1.47.1.nupkg.sha512",
     "C:\\Users\\alina\\.nuget\\packages\\azure.identity\\1.14.2\\azure.identity.1.14.2.nupkg.sha512",

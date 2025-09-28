@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\development\\itStep\\asp.net\\asp.net-classes\\lesson2\\asp-hw-2\\",
+  "WorkspaceRootPath": "D:\\development\\itStep\\asp.net\\asp.net-classes\\lesson-2\\asp-hw-2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9E5F218D-2466-4977-B7B3-ADF1761FFD42}|asp-hw-2\\weather-api.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\lesson2\\asp-hw-2\\asp-hw-2\\html\\mainpage.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{9E5F218D-2466-4977-B7B3-ADF1761FFD42}|asp-hw-2\\weather-api.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\lesson-2\\asp-hw-2\\asp-hw-2\\html\\mainpage.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9E5F218D-2466-4977-B7B3-ADF1761FFD42}|asp-hw-2\\weather-api.csproj|solutionrelative:asp-hw-2\\html\\mainpage.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9E5F218D-2466-4977-B7B3-ADF1761FFD42}|asp-hw-2\\weather-api.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\lesson2\\asp-hw-2\\asp-hw-2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9E5F218D-2466-4977-B7B3-ADF1761FFD42}|asp-hw-2\\weather-api.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\lesson-2\\asp-hw-2\\asp-hw-2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9E5F218D-2466-4977-B7B3-ADF1761FFD42}|asp-hw-2\\weather-api.csproj|solutionrelative:asp-hw-2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -28,11 +28,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "mainpage.html",
-              "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\lesson2\\asp-hw-2\\asp-hw-2\\html\\mainpage.html",
+              "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\lesson-2\\asp-hw-2\\asp-hw-2\\html\\mainpage.html",
               "RelativeDocumentMoniker": "asp-hw-2\\html\\mainpage.html",
-              "ToolTip": "D:\\development\\itStep\\asp.net\\asp.net-classes\\lesson2\\asp-hw-2\\asp-hw-2\\html\\mainpage.html",
+              "ToolTip": "D:\\development\\itStep\\asp.net\\asp.net-classes\\lesson-2\\asp-hw-2\\asp-hw-2\\html\\mainpage.html",
               "RelativeToolTip": "asp-hw-2\\html\\mainpage.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2025-08-19T13:27:47.975Z",
               "EditorCaption": ""
@@ -41,13 +41,14 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\lesson2\\asp-hw-2\\asp-hw-2\\Program.cs",
+              "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\lesson-2\\asp-hw-2\\asp-hw-2\\Program.cs",
               "RelativeDocumentMoniker": "asp-hw-2\\Program.cs",
-              "ToolTip": "D:\\development\\itStep\\asp.net\\asp.net-classes\\lesson2\\asp-hw-2\\asp-hw-2\\Program.cs",
+              "ToolTip": "D:\\development\\itStep\\asp.net\\asp.net-classes\\lesson-2\\asp-hw-2\\asp-hw-2\\Program.cs",
               "RelativeToolTip": "asp-hw-2\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACkAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T13:27:06.798Z"
+              "WhenOpened": "2025-08-19T13:27:06.798Z",
+              "EditorCaption": ""
             }
           ]
         }

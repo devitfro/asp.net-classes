@@ -1,0 +1,25 @@
+﻿@using app_hw.Models
+@model Weather
+@{
+    ViewBag.Title = "Погода";
+}
+
+<h2>Погода</h2>
+
+<form method="post">
+    <input type="text" name="city" placeholder="Введите город" />
+    <button type="submit">Узнать погоду</button>
+</form>
+
+@if (ViewBag.Error != null)
+{
+    <p style="color:red">@ViewBag.Error</p>
+}
+
+@if (Model != null)
+{
+    <h3>@Model.Name</h3>
+    <p>Температура: @Model.Main.Temp °C</p>
+    <p>Влажность: @Model.Main.Humidity %</p>
+    <p>Погода: @Model.w[0].Main - @Model.w[0].Description</p>
+}

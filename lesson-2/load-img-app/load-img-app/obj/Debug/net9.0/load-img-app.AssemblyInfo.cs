@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("load-img-app")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ddd68bc0b43f59017ff8f8e6d8e478abce2eb22b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b329cefaf6e662b335a6eacc6bd90bcc26440438")]
 [assembly: System.Reflection.AssemblyProductAttribute("load-img-app")]
 [assembly: System.Reflection.AssemblyTitleAttribute("load-img-app")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

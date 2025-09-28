@@ -1,0 +1,94 @@
+﻿@* @{
+    Company[] companies =
+            {
+        new Company { Name = "AAA Corp", Id = 1 },
+        new Company { Name = "NNN Corp", Id = 2 },
+        new Company { Name = "BBB Corp", Id = 3 },
+    };
+}
+
+@using (Html.BeginForm("Create", "Home", FormMethod.Post))
+{
+    <p>
+        @Html.Label("FirstName") <br />
+        @Html.TextBox("FirstName")
+    </p>
+
+    <p>
+        @Html.Label("LastName") <br />
+        @Html.TextBox("LastName")
+    </p>
+
+    <p>
+        @Html.Label("Age") <br />
+        @Html.TextBox("Age", "", new { type = "number" })
+    </p>
+    <p>
+        @Html.DropDownList("Language", new SelectList(new string[] { "C#", "VB.NET", "F#" }))
+    </p>
+
+    <p>
+        @Html.DropDownList("CompanyId", new SelectList(companies, "Id", "Name"))
+    </p>
+
+    <p>
+        <input type="submit" value="Create" />
+    </p>
+}
+ *@
+
+
+@model User
+
+@{
+    string[] languages = { "C#", "Java", "Python" };
+    string[] dishes = { "Fish", "Potatoes", "Soup" };
+}
+<cache expires-after="@TimeSpan.FromSeconds(3)">
+    <p>Time: @DateTime.Now.ToString()</p>
+</cache>
+
+
+@using (Html.BeginForm("Create", "Home", FormMethod.Post))
+{
+    @Html.Hidden("Id")
+    <div class="form-group">
+        @Html.DisplayNameFor(model => model.Name): @Html.TextBox("Name", "", new { @class = "form-control" })
+    </div>
+    <div class="form-group">
+        @Html.DisplayNameFor(model => model.Age): @Html.TextBoxFor(model => model.Age, new { @class = "form-control" })
+    </div>
+    <div class="form-group">
+        @Html.DisplayNameFor(model => model.About): @Html.TextArea("About", "", new { @class = "form-control" })
+    </div>
+    <div class="form-group">
+        @Html.DisplayNameFor(model => model.Biography): @Html.TextAreaFor(model => model.Biography, new { @class = "form-control" })
+    </div>
+    <div class="form-group">
+        @Html.DisplayNameFor(model => model.Password): @Html.Password("Password", "", new { @class = "form-control" })
+    </div>
+    <div class="form-group">
+        @Html.DisplayNameFor(model => model.Gender):
+
+        @Html.RadioButton("Gender", "Male", isChecked: true)
+        <span>Male</span>
+
+        @Html.RadioButton("Gender", "Woman")
+        <span>Woman</span>
+    </div>
+    <div class="form-group mt-2">
+        @Html.DisplayNameFor(model => model.IsHappy) @Html.CheckBox("IsHappy", false)
+    </div>
+    <div class="form-group mt-2">
+        @Html.DisplayNameFor(model => model.Language): @Html.DropDownList("Language", new SelectList(languages), "Choose language", new { @class = "form-select" })
+    </div>
+    <div class="form-group mt-2">
+        @Html.DisplayNameFor(model => model.FavoriteDish): @Html.ListBox("FavoriteDish", new SelectList(dishes), new { @class = "form-select" })
+    </div>
+    @* <div class="form-group mt-2">
+        @Html.DisplayNameFor(model => model.TimeOfDay) @Html.DropDownList("TimeOfDay", Html.GetEnumSelectList(typeof(TimeOfDay)), new { @class = "form-select" })
+    </div> *@
+    <div class="form-group mt-3">
+        <button type="submit" class="btn btn-primary">Submit</button>
+    </div>
+}

@@ -1,10 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\development\\itStep\\asp.net\\asp.net-classes\\lesson2\\db-app\\",
+  "WorkspaceRootPath": "D:\\development\\itStep\\asp.net\\asp.net-classes\\lesson-2\\db-app\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{14D12465-6763-416C-ACF0-5301A61803AF}|db-app\\db-app.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\lesson2\\db-app\\db-app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{14D12465-6763-416C-ACF0-5301A61803AF}|db-app\\db-app.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\lesson-2\\db-app\\db-app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{14D12465-6763-416C-ACF0-5301A61803AF}|db-app\\db-app.csproj|solutionrelative:db-app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14D12465-6763-416C-ACF0-5301A61803AF}|db-app\\db-app.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\lesson-2\\db-app\\db-app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{14D12465-6763-416C-ACF0-5301A61803AF}|db-app\\db-app.csproj|solutionrelative:db-app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,13 +26,26 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\lesson-2\\db-app\\db-app\\appsettings.json",
+              "RelativeDocumentMoniker": "db-app\\appsettings.json",
+              "ToolTip": "D:\\development\\itStep\\asp.net\\asp.net-classes\\lesson-2\\db-app\\db-app\\appsettings.json",
+              "RelativeToolTip": "db-app\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-20T14:04:47.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\lesson2\\db-app\\db-app\\Program.cs",
+              "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\lesson-2\\db-app\\db-app\\Program.cs",
               "RelativeDocumentMoniker": "db-app\\Program.cs",
-              "ToolTip": "D:\\development\\itStep\\asp.net\\asp.net-classes\\lesson2\\db-app\\db-app\\Program.cs",
+              "ToolTip": "D:\\development\\itStep\\asp.net\\asp.net-classes\\lesson-2\\db-app\\db-app\\Program.cs",
               "RelativeToolTip": "db-app\\Program.cs",
-              "ViewState": "AgIAAC8BAAAAAAAAAAAAAEEBAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-19T14:31:59.199Z",
               "EditorCaption": ""

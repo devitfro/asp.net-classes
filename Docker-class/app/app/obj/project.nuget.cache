@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "oGwdIAoFx90=",
+  "success": true,
+  "projectFilePath": "D:\\development\\itStep\\asp.net\\asp.net-classes\\Docker-class\\app\\app\\app.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alina\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.9\\microsoft.aspnetcore.openapi.9.0.9.nupkg.sha512",
+    "C:\\Users\\alina\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512",
+    "C:\\Users\\alina\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.22.1\\microsoft.visualstudio.azure.containers.tools.targets.1.22.1.nupkg.sha512"
+  ],
+  "logs": []
+}

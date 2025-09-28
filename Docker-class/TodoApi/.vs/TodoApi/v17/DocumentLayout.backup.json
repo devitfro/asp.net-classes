@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\development\\itStep\\asp.net\\asp.net-classes\\Docker-class\\TodoApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DEA9EEAA-4BD2-481F-907B-88A62FFDA1D5}|TodoApi\\TodoApi.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\docker-class\\todoapi\\todoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEA9EEAA-4BD2-481F-907B-88A62FFDA1D5}|TodoApi\\TodoApi.csproj|solutionrelative:todoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEA9EEAA-4BD2-481F-907B-88A62FFDA1D5}|TodoApi\\TodoApi.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\docker-class\\todoapi\\todoapi\\service\\rediscacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEA9EEAA-4BD2-481F-907B-88A62FFDA1D5}|TodoApi\\TodoApi.csproj|solutionrelative:todoapi\\service\\rediscacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEA9EEAA-4BD2-481F-907B-88A62FFDA1D5}|TodoApi\\TodoApi.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\docker-class\\todoapi\\todoapi\\models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEA9EEAA-4BD2-481F-907B-88A62FFDA1D5}|TodoApi\\TodoApi.csproj|solutionrelative:todoapi\\models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEA9EEAA-4BD2-481F-907B-88A62FFDA1D5}|TodoApi\\TodoApi.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\docker-class\\todoapi\\todoapi\\data\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEA9EEAA-4BD2-481F-907B-88A62FFDA1D5}|TodoApi\\TodoApi.csproj|solutionrelative:todoapi\\data\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEA9EEAA-4BD2-481F-907B-88A62FFDA1D5}|TodoApi\\TodoApi.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\docker-class\\todoapi\\todoapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DEA9EEAA-4BD2-481F-907B-88A62FFDA1D5}|TodoApi\\TodoApi.csproj|solutionrelative:todoapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEA9EEAA-4BD2-481F-907B-88A62FFDA1D5}|TodoApi\\TodoApi.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\docker-class\\todoapi\\todoapi\\todoapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DEA9EEAA-4BD2-481F-907B-88A62FFDA1D5}|TodoApi\\TodoApi.csproj|solutionrelative:todoapi\\todoapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEA9EEAA-4BD2-481F-907B-88A62FFDA1D5}|TodoApi\\TodoApi.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\docker-class\\todoapi\\todoapi\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEA9EEAA-4BD2-481F-907B-88A62FFDA1D5}|TodoApi\\TodoApi.csproj|solutionrelative:todoapi\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\Docker-class\\TodoApi\\TodoApi\\Controllers\\TaskController.cs",
+              "RelativeDocumentMoniker": "TodoApi\\Controllers\\TaskController.cs",
+              "ToolTip": "D:\\development\\itStep\\asp.net\\asp.net-classes\\Docker-class\\TodoApi\\TodoApi\\Controllers\\TaskController.cs",
+              "RelativeToolTip": "TodoApi\\Controllers\\TaskController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T16:41:06.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\Docker-class\\TodoApi\\TodoApi\\Program.cs",
+              "RelativeDocumentMoniker": "TodoApi\\Program.cs",
+              "ToolTip": "D:\\development\\itStep\\asp.net\\asp.net-classes\\Docker-class\\TodoApi\\TodoApi\\Program.cs",
+              "RelativeToolTip": "TodoApi\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T16:38:40.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TodoApi.csproj",
+              "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\Docker-class\\TodoApi\\TodoApi\\TodoApi.csproj",
+              "RelativeDocumentMoniker": "TodoApi\\TodoApi.csproj",
+              "ToolTip": "D:\\development\\itStep\\asp.net\\asp.net-classes\\Docker-class\\TodoApi\\TodoApi\\TodoApi.csproj",
+              "RelativeToolTip": "TodoApi\\TodoApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-19T16:27:23.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\Docker-class\\TodoApi\\TodoApi\\appsettings.json",
+              "RelativeDocumentMoniker": "TodoApi\\appsettings.json",
+              "ToolTip": "D:\\development\\itStep\\asp.net\\asp.net-classes\\Docker-class\\TodoApi\\TodoApi\\appsettings.json",
+              "RelativeToolTip": "TodoApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-19T16:26:52.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationContext.cs",
+              "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\Docker-class\\TodoApi\\TodoApi\\Data\\ApplicationContext.cs",
+              "RelativeDocumentMoniker": "TodoApi\\Data\\ApplicationContext.cs",
+              "ToolTip": "D:\\development\\itStep\\asp.net\\asp.net-classes\\Docker-class\\TodoApi\\TodoApi\\Data\\ApplicationContext.cs",
+              "RelativeToolTip": "TodoApi\\Data\\ApplicationContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T16:22:34.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RedisCacheService.cs",
+              "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\Docker-class\\TodoApi\\TodoApi\\Service\\RedisCacheService.cs",
+              "RelativeDocumentMoniker": "TodoApi\\Service\\RedisCacheService.cs",
+              "ToolTip": "D:\\development\\itStep\\asp.net\\asp.net-classes\\Docker-class\\TodoApi\\TodoApi\\Service\\RedisCacheService.cs",
+              "RelativeToolTip": "TodoApi\\Service\\RedisCacheService.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T16:22:04.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TaskItem.cs",
+              "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\Docker-class\\TodoApi\\TodoApi\\Models\\TaskItem.cs",
+              "RelativeDocumentMoniker": "TodoApi\\Models\\TaskItem.cs",
+              "ToolTip": "D:\\development\\itStep\\asp.net\\asp.net-classes\\Docker-class\\TodoApi\\TodoApi\\Models\\TaskItem.cs",
+              "RelativeToolTip": "TodoApi\\Models\\TaskItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T16:21:40.365Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

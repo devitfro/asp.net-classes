@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\development\\itStep\\asp.net\\asp.net-classes\\lesson2\\load-img-app\\",
+  "WorkspaceRootPath": "D:\\development\\itStep\\asp.net\\asp.net-classes\\lesson-2\\load-img-app\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5032BA26-E8DC-467A-9B63-E1E747A6F405}|load-img-app\\load-img-app.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\lesson2\\load-img-app\\load-img-app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5032BA26-E8DC-467A-9B63-E1E747A6F405}|load-img-app\\load-img-app.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\lesson-2\\load-img-app\\load-img-app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5032BA26-E8DC-467A-9B63-E1E747A6F405}|load-img-app\\load-img-app.csproj|solutionrelative:load-img-app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\lesson2\\load-img-app\\load-img-app\\Program.cs",
+              "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\lesson-2\\load-img-app\\load-img-app\\Program.cs",
               "RelativeDocumentMoniker": "load-img-app\\Program.cs",
-              "ToolTip": "D:\\development\\itStep\\asp.net\\asp.net-classes\\lesson2\\load-img-app\\load-img-app\\Program.cs",
+              "ToolTip": "D:\\development\\itStep\\asp.net\\asp.net-classes\\lesson-2\\load-img-app\\load-img-app\\Program.cs",
               "RelativeToolTip": "load-img-app\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-19T16:00:28.414Z",
               "EditorCaption": ""

@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "D:\\development\\itStep\\asp.net\\asp.net-classes\\lesson-9\\app-hw\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CC70FCB8-B111-411F-BE63-D9E1F4E3802C}|app-hw\\app-hw.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\lesson-9\\app-hw\\app-hw\\models\\matrix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC70FCB8-B111-411F-BE63-D9E1F4E3802C}|app-hw\\app-hw.csproj|solutionrelative:app-hw\\models\\matrix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CC70FCB8-B111-411F-BE63-D9E1F4E3802C}|app-hw\\app-hw.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\lesson-9\\app-hw\\app-hw\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC70FCB8-B111-411F-BE63-D9E1F4E3802C}|app-hw\\app-hw.csproj|solutionrelative:app-hw\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CC70FCB8-B111-411F-BE63-D9E1F4E3802C}|app-hw\\app-hw.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\lesson-9\\app-hw\\app-hw\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC70FCB8-B111-411F-BE63-D9E1F4E3802C}|app-hw\\app-hw.csproj|solutionrelative:app-hw\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CC70FCB8-B111-411F-BE63-D9E1F4E3802C}|app-hw\\app-hw.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\lesson-9\\app-hw\\app-hw\\views\\home\\result.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC70FCB8-B111-411F-BE63-D9E1F4E3802C}|app-hw\\app-hw.csproj|solutionrelative:app-hw\\views\\home\\result.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC70FCB8-B111-411F-BE63-D9E1F4E3802C}|app-hw\\app-hw.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\lesson-9\\app-hw\\app-hw\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC70FCB8-B111-411F-BE63-D9E1F4E3802C}|app-hw\\app-hw.csproj|solutionrelative:app-hw\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CC70FCB8-B111-411F-BE63-D9E1F4E3802C}|app-hw\\app-hw.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\lesson-9\\app-hw\\app-hw\\views\\home\\matrix.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -17,6 +21,18 @@
     {
       "AbsoluteMoniker": "D:0:0:{CC70FCB8-B111-411F-BE63-D9E1F4E3802C}|app-hw\\app-hw.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\lesson-9\\app-hw\\app-hw\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{CC70FCB8-B111-411F-BE63-D9E1F4E3802C}|app-hw\\app-hw.csproj|solutionrelative:app-hw\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC70FCB8-B111-411F-BE63-D9E1F4E3802C}|app-hw\\app-hw.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\lesson-9\\app-hw\\app-hw\\models\\matrix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC70FCB8-B111-411F-BE63-D9E1F4E3802C}|app-hw\\app-hw.csproj|solutionrelative:app-hw\\models\\matrix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC70FCB8-B111-411F-BE63-D9E1F4E3802C}|app-hw\\app-hw.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\lesson-9\\app-hw\\app-hw\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC70FCB8-B111-411F-BE63-D9E1F4E3802C}|app-hw\\app-hw.csproj|solutionrelative:app-hw\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC70FCB8-B111-411F-BE63-D9E1F4E3802C}|app-hw\\app-hw.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\lesson-9\\app-hw\\app-hw\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC70FCB8-B111-411F-BE63-D9E1F4E3802C}|app-hw\\app-hw.csproj|solutionrelative:app-hw\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,6 +51,58 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\lesson-9\\app-hw\\app-hw\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "app-hw\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\development\\itStep\\asp.net\\asp.net-classes\\lesson-9\\app-hw\\app-hw\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "app-hw\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-18T14:26:09.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Result.cshtml",
+              "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\lesson-9\\app-hw\\app-hw\\Views\\Home\\Result.cshtml",
+              "RelativeDocumentMoniker": "app-hw\\Views\\Home\\Result.cshtml",
+              "ToolTip": "D:\\development\\itStep\\asp.net\\asp.net-classes\\lesson-9\\app-hw\\app-hw\\Views\\Home\\Result.cshtml",
+              "RelativeToolTip": "app-hw\\Views\\Home\\Result.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-18T14:26:08.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\lesson-9\\app-hw\\app-hw\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "app-hw\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\development\\itStep\\asp.net\\asp.net-classes\\lesson-9\\app-hw\\app-hw\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "app-hw\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-18T14:26:07.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\lesson-9\\app-hw\\app-hw\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "app-hw\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\development\\itStep\\asp.net\\asp.net-classes\\lesson-9\\app-hw\\app-hw\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "app-hw\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T14:26:02.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Matrix.cs",
               "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\lesson-9\\app-hw\\app-hw\\Models\\Matrix.cs",
               "RelativeDocumentMoniker": "app-hw\\Models\\Matrix.cs",
@@ -47,7 +115,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\lesson-9\\app-hw\\app-hw\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "app-hw\\Views\\Home\\Index.cshtml",
@@ -60,20 +128,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Matrix.cshtml",
               "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\lesson-9\\app-hw\\app-hw\\Views\\Home\\Matrix.cshtml",
               "RelativeDocumentMoniker": "app-hw\\Views\\Home\\Matrix.cshtml",
               "ToolTip": "D:\\development\\itStep\\asp.net\\asp.net-classes\\lesson-9\\app-hw\\app-hw\\Views\\Home\\Matrix.cshtml",
               "RelativeToolTip": "app-hw\\Views\\Home\\Matrix.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-09-18T13:51:06.091Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\lesson-9\\app-hw\\app-hw\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "app-hw\\Controllers\\HomeController.cs",
@@ -81,8 +149,7 @@
               "RelativeToolTip": "app-hw\\Controllers\\HomeController.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-18T13:50:39.505Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-18T13:50:39.505Z"
             }
           ]
         }

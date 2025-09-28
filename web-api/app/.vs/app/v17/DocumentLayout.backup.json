@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\development\\itStep\\asp.net\\asp.net-classes\\web-api\\app\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{349530C6-25E0-4217-86B5-70A30343F457}|app\\app.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\web-api\\app\\app\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{349530C6-25E0-4217-86B5-70A30343F457}|app\\app.csproj|solutionrelative:app\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{349530C6-25E0-4217-86B5-70A30343F457}|app\\app.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\web-api\\app\\app\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{349530C6-25E0-4217-86B5-70A30343F457}|app\\app.csproj|solutionrelative:app\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{349530C6-25E0-4217-86B5-70A30343F457}|app\\app.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\web-api\\app\\app\\data\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{349530C6-25E0-4217-86B5-70A30343F457}|app\\app.csproj|solutionrelative:app\\data\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{349530C6-25E0-4217-86B5-70A30343F457}|app\\app.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\web-api\\app\\app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{349530C6-25E0-4217-86B5-70A30343F457}|app\\app.csproj|solutionrelative:app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\web-api\\app\\app\\Program.cs",
+              "RelativeDocumentMoniker": "app\\Program.cs",
+              "ToolTip": "D:\\development\\itStep\\asp.net\\asp.net-classes\\web-api\\app\\app\\Program.cs",
+              "RelativeToolTip": "app\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T15:08:36.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\web-api\\app\\app\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "app\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\development\\itStep\\asp.net\\asp.net-classes\\web-api\\app\\app\\Controllers\\UsersController.cs*",
+              "RelativeToolTip": "app\\Controllers\\UsersController.cs*",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T15:07:23.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\web-api\\app\\app\\Models\\User.cs",
+              "RelativeDocumentMoniker": "app\\Models\\User.cs",
+              "ToolTip": "D:\\development\\itStep\\asp.net\\asp.net-classes\\web-api\\app\\app\\Models\\User.cs",
+              "RelativeToolTip": "app\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T15:05:34.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationContext.cs",
+              "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\web-api\\app\\app\\Data\\ApplicationContext.cs",
+              "RelativeDocumentMoniker": "app\\Data\\ApplicationContext.cs",
+              "ToolTip": "D:\\development\\itStep\\asp.net\\asp.net-classes\\web-api\\app\\app\\Data\\ApplicationContext.cs",
+              "RelativeToolTip": "app\\Data\\ApplicationContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T15:04:30.735Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

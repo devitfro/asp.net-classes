@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "D:\\development\\itStep\\asp.net\\asp.net-classes\\lesson-7\\app-class-1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B71EB41C-C5CE-49EE-91F0-C837558440FF}|app-class-1\\app-class-1.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\lesson-7\\app-class-1\\app-class-1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B71EB41C-C5CE-49EE-91F0-C837558440FF}|app-class-1\\app-class-1.csproj|solutionrelative:app-class-1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B71EB41C-C5CE-49EE-91F0-C837558440FF}|app-class-1\\app-class-1.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\lesson-7\\app-class-1\\app-class-1\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B71EB41C-C5CE-49EE-91F0-C837558440FF}|app-class-1\\app-class-1.csproj|solutionrelative:app-class-1\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B71EB41C-C5CE-49EE-91F0-C837558440FF}|app-class-1\\app-class-1.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\lesson-7\\app-class-1\\app-class-1\\views\\shared\\_layout1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B71EB41C-C5CE-49EE-91F0-C837558440FF}|app-class-1\\app-class-1.csproj|solutionrelative:app-class-1\\views\\shared\\_layout1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B71EB41C-C5CE-49EE-91F0-C837558440FF}|app-class-1\\app-class-1.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\lesson-7\\app-class-1\\app-class-1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B71EB41C-C5CE-49EE-91F0-C837558440FF}|app-class-1\\app-class-1.csproj|solutionrelative:app-class-1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B71EB41C-C5CE-49EE-91F0-C837558440FF}|app-class-1\\app-class-1.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\lesson-7\\app-class-1\\app-class-1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B71EB41C-C5CE-49EE-91F0-C837558440FF}|app-class-1\\app-class-1.csproj|solutionrelative:app-class-1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B71EB41C-C5CE-49EE-91F0-C837558440FF}|app-class-1\\app-class-1.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\lesson-7\\app-class-1\\app-class-1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B71EB41C-C5CE-49EE-91F0-C837558440FF}|app-class-1\\app-class-1.csproj|solutionrelative:app-class-1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B71EB41C-C5CE-49EE-91F0-C837558440FF}|app-class-1\\app-class-1.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\lesson-7\\app-class-1\\app-class-1\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B71EB41C-C5CE-49EE-91F0-C837558440FF}|app-class-1\\app-class-1.csproj|solutionrelative:app-class-1\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B71EB41C-C5CE-49EE-91F0-C837558440FF}|app-class-1\\app-class-1.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\lesson-7\\app-class-1\\app-class-1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B71EB41C-C5CE-49EE-91F0-C837558440FF}|app-class-1\\app-class-1.csproj|solutionrelative:app-class-1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,7 +42,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\lesson-7\\app-class-1\\app-class-1\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "app-class-1\\Models\\Person.cs",
+              "ToolTip": "D:\\development\\itStep\\asp.net\\asp.net-classes\\lesson-7\\app-class-1\\app-class-1\\Models\\Person.cs",
+              "RelativeToolTip": "app-class-1\\Models\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T13:27:14.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\lesson-7\\app-class-1\\app-class-1\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "app-class-1\\Services\\ProductService.cs",
+              "ToolTip": "D:\\development\\itStep\\asp.net\\asp.net-classes\\lesson-7\\app-class-1\\app-class-1\\Services\\ProductService.cs",
+              "RelativeToolTip": "app-class-1\\Services\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T13:20:36.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\lesson-7\\app-class-1\\app-class-1\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "app-class-1\\Views\\_ViewStart.cshtml",
@@ -42,8 +76,7 @@
               "RelativeToolTip": "app-class-1\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-11T11:35:30.959Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-11T11:35:30.959Z"
             },
             {
               "$type": "Document",
@@ -60,7 +93,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\lesson-7\\app-class-1\\app-class-1\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "app-class-1\\Views\\Home\\Index.cshtml",
