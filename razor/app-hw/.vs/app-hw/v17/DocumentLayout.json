@@ -1,0 +1,179 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\development\\itStep\\asp.net\\asp.net-classes\\razor\\app-hw\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB507FE3-6270-4EFC-9169-3B6AEEA77E7E}|app-hw\\TodoApp.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\razor\\app-hw\\app-hw\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{EB507FE3-6270-4EFC-9169-3B6AEEA77E7E}|app-hw\\TodoApp.csproj|solutionrelative:app-hw\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB507FE3-6270-4EFC-9169-3B6AEEA77E7E}|app-hw\\TodoApp.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\razor\\app-hw\\app-hw\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{EB507FE3-6270-4EFC-9169-3B6AEEA77E7E}|app-hw\\TodoApp.csproj|solutionrelative:app-hw\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB507FE3-6270-4EFC-9169-3B6AEEA77E7E}|app-hw\\TodoApp.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\razor\\app-hw\\app-hw\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB507FE3-6270-4EFC-9169-3B6AEEA77E7E}|app-hw\\TodoApp.csproj|solutionrelative:app-hw\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB507FE3-6270-4EFC-9169-3B6AEEA77E7E}|app-hw\\TodoApp.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\razor\\app-hw\\app-hw\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EB507FE3-6270-4EFC-9169-3B6AEEA77E7E}|app-hw\\TodoApp.csproj|solutionrelative:app-hw\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\development\\itStep\\asp.net\\asp.net-classes\\razor\\app-hw\\app-hw\\Migrations\\20251002211539_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app-hw\\Migrations\\20251002211539_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB507FE3-6270-4EFC-9169-3B6AEEA77E7E}|app-hw\\TodoApp.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\razor\\app-hw\\app-hw\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB507FE3-6270-4EFC-9169-3B6AEEA77E7E}|app-hw\\TodoApp.csproj|solutionrelative:app-hw\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB507FE3-6270-4EFC-9169-3B6AEEA77E7E}|app-hw\\TodoApp.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\razor\\app-hw\\app-hw\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EB507FE3-6270-4EFC-9169-3B6AEEA77E7E}|app-hw\\TodoApp.csproj|solutionrelative:app-hw\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB507FE3-6270-4EFC-9169-3B6AEEA77E7E}|app-hw\\TodoApp.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\razor\\app-hw\\app-hw\\data\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB507FE3-6270-4EFC-9169-3B6AEEA77E7E}|app-hw\\TodoApp.csproj|solutionrelative:app-hw\\data\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB507FE3-6270-4EFC-9169-3B6AEEA77E7E}|app-hw\\TodoApp.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\razor\\app-hw\\app-hw\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB507FE3-6270-4EFC-9169-3B6AEEA77E7E}|app-hw\\TodoApp.csproj|solutionrelative:app-hw\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1189,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 575,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\razor\\app-hw\\app-hw\\docker-compose.yml",
+              "RelativeDocumentMoniker": "app-hw\\docker-compose.yml",
+              "ToolTip": "D:\\development\\itStep\\asp.net\\asp.net-classes\\razor\\app-hw\\app-hw\\docker-compose.yml",
+              "RelativeToolTip": "app-hw\\docker-compose.yml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-10-02T21:17:04.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\razor\\app-hw\\app-hw\\Dockerfile",
+              "RelativeDocumentMoniker": "app-hw\\Dockerfile",
+              "ToolTip": "D:\\development\\itStep\\asp.net\\asp.net-classes\\razor\\app-hw\\app-hw\\Dockerfile",
+              "RelativeToolTip": "app-hw\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-10-02T21:16:30.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20251002211539_Initial.cs",
+              "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\razor\\app-hw\\app-hw\\Migrations\\20251002211539_Initial.cs",
+              "RelativeDocumentMoniker": "app-hw\\Migrations\\20251002211539_Initial.cs",
+              "ToolTip": "D:\\development\\itStep\\asp.net\\asp.net-classes\\razor\\app-hw\\app-hw\\Migrations\\20251002211539_Initial.cs",
+              "RelativeToolTip": "app-hw\\Migrations\\20251002211539_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T21:15:39.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\razor\\app-hw\\app-hw\\appsettings.json",
+              "RelativeDocumentMoniker": "app-hw\\appsettings.json",
+              "ToolTip": "D:\\development\\itStep\\asp.net\\asp.net-classes\\razor\\app-hw\\app-hw\\appsettings.json",
+              "RelativeToolTip": "app-hw\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-02T21:05:11.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\razor\\app-hw\\app-hw\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "app-hw\\Pages\\Index.cshtml.cs",
+              "ToolTip": "D:\\development\\itStep\\asp.net\\asp.net-classes\\razor\\app-hw\\app-hw\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "app-hw\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAABQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T21:02:39.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\razor\\app-hw\\app-hw\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "app-hw\\Pages\\Index.cshtml",
+              "ToolTip": "D:\\development\\itStep\\asp.net\\asp.net-classes\\razor\\app-hw\\app-hw\\Pages\\Index.cshtml",
+              "RelativeToolTip": "app-hw\\Pages\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-02T21:02:37.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\razor\\app-hw\\app-hw\\Program.cs",
+              "RelativeDocumentMoniker": "app-hw\\Program.cs",
+              "ToolTip": "D:\\development\\itStep\\asp.net\\asp.net-classes\\razor\\app-hw\\app-hw\\Program.cs",
+              "RelativeToolTip": "app-hw\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T21:01:49.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationContext.cs",
+              "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\razor\\app-hw\\app-hw\\Data\\ApplicationContext.cs",
+              "RelativeDocumentMoniker": "app-hw\\Data\\ApplicationContext.cs",
+              "ToolTip": "D:\\development\\itStep\\asp.net\\asp.net-classes\\razor\\app-hw\\app-hw\\Data\\ApplicationContext.cs",
+              "RelativeToolTip": "app-hw\\Data\\ApplicationContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T21:01:05.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TodoItem.cs",
+              "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\razor\\app-hw\\app-hw\\Models\\TodoItem.cs",
+              "RelativeDocumentMoniker": "app-hw\\Models\\TodoItem.cs",
+              "ToolTip": "D:\\development\\itStep\\asp.net\\asp.net-classes\\razor\\app-hw\\app-hw\\Models\\TodoItem.cs",
+              "RelativeToolTip": "app-hw\\Models\\TodoItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T21:00:31.933Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
