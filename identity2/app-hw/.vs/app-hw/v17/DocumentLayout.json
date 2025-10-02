@@ -1,0 +1,204 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\development\\itStep\\asp.net\\asp.net-classes\\identity2\\app-hw\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3BD5E5E9-2101-4CE6-880F-94CF67915558}|app-hw\\app-hw.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\identity2\\app-hw\\app-hw\\controllers\\accountcontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BD5E5E9-2101-4CE6-880F-94CF67915558}|app-hw\\app-hw.csproj|solutionrelative:app-hw\\controllers\\accountcontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BD5E5E9-2101-4CE6-880F-94CF67915558}|app-hw\\app-hw.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\identity2\\app-hw\\app-hw\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BD5E5E9-2101-4CE6-880F-94CF67915558}|app-hw\\app-hw.csproj|solutionrelative:app-hw\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BD5E5E9-2101-4CE6-880F-94CF67915558}|app-hw\\app-hw.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\identity2\\app-hw\\app-hw\\data\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BD5E5E9-2101-4CE6-880F-94CF67915558}|app-hw\\app-hw.csproj|solutionrelative:app-hw\\data\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BD5E5E9-2101-4CE6-880F-94CF67915558}|app-hw\\app-hw.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\identity2\\app-hw\\app-hw\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BD5E5E9-2101-4CE6-880F-94CF67915558}|app-hw\\app-hw.csproj|solutionrelative:app-hw\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BD5E5E9-2101-4CE6-880F-94CF67915558}|app-hw\\app-hw.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\identity2\\app-hw\\app-hw\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3BD5E5E9-2101-4CE6-880F-94CF67915558}|app-hw\\app-hw.csproj|solutionrelative:app-hw\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BD5E5E9-2101-4CE6-880F-94CF67915558}|app-hw\\app-hw.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\identity2\\app-hw\\app-hw\\services\\fakeemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BD5E5E9-2101-4CE6-880F-94CF67915558}|app-hw\\app-hw.csproj|solutionrelative:app-hw\\services\\fakeemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BD5E5E9-2101-4CE6-880F-94CF67915558}|app-hw\\app-hw.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\identity2\\app-hw\\app-hw\\services\\iemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BD5E5E9-2101-4CE6-880F-94CF67915558}|app-hw\\app-hw.csproj|solutionrelative:app-hw\\services\\iemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BD5E5E9-2101-4CE6-880F-94CF67915558}|app-hw\\app-hw.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\identity2\\app-hw\\app-hw\\models\\friendship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BD5E5E9-2101-4CE6-880F-94CF67915558}|app-hw\\app-hw.csproj|solutionrelative:app-hw\\models\\friendship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BD5E5E9-2101-4CE6-880F-94CF67915558}|app-hw\\app-hw.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\identity2\\app-hw\\app-hw\\models\\friendrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BD5E5E9-2101-4CE6-880F-94CF67915558}|app-hw\\app-hw.csproj|solutionrelative:app-hw\\models\\friendrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BD5E5E9-2101-4CE6-880F-94CF67915558}|app-hw\\app-hw.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\identity2\\app-hw\\app-hw\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BD5E5E9-2101-4CE6-880F-94CF67915558}|app-hw\\app-hw.csproj|solutionrelative:app-hw\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1189,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 575,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController .cs",
+              "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\identity2\\app-hw\\app-hw\\Controllers\\AccountController .cs",
+              "RelativeDocumentMoniker": "app-hw\\Controllers\\AccountController .cs",
+              "ToolTip": "D:\\development\\itStep\\asp.net\\asp.net-classes\\identity2\\app-hw\\app-hw\\Controllers\\AccountController .cs",
+              "RelativeToolTip": "app-hw\\Controllers\\AccountController .cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAewEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T20:38:31.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\identity2\\app-hw\\app-hw\\appsettings.json",
+              "RelativeDocumentMoniker": "app-hw\\appsettings.json",
+              "ToolTip": "D:\\development\\itStep\\asp.net\\asp.net-classes\\identity2\\app-hw\\app-hw\\appsettings.json",
+              "RelativeToolTip": "app-hw\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-02T20:37:16.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\identity2\\app-hw\\app-hw\\Program.cs",
+              "RelativeDocumentMoniker": "app-hw\\Program.cs",
+              "ToolTip": "D:\\development\\itStep\\asp.net\\asp.net-classes\\identity2\\app-hw\\app-hw\\Program.cs",
+              "RelativeToolTip": "app-hw\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T20:36:51.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FakeEmailSender.cs",
+              "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\identity2\\app-hw\\app-hw\\Services\\FakeEmailSender.cs",
+              "RelativeDocumentMoniker": "app-hw\\Services\\FakeEmailSender.cs",
+              "ToolTip": "D:\\development\\itStep\\asp.net\\asp.net-classes\\identity2\\app-hw\\app-hw\\Services\\FakeEmailSender.cs",
+              "RelativeToolTip": "app-hw\\Services\\FakeEmailSender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T20:36:22.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IEmailSender.cs",
+              "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\identity2\\app-hw\\app-hw\\Services\\IEmailSender.cs",
+              "RelativeDocumentMoniker": "app-hw\\Services\\IEmailSender.cs",
+              "ToolTip": "D:\\development\\itStep\\asp.net\\asp.net-classes\\identity2\\app-hw\\app-hw\\Services\\IEmailSender.cs",
+              "RelativeToolTip": "app-hw\\Services\\IEmailSender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T20:35:39.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationContext.cs",
+              "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\identity2\\app-hw\\app-hw\\Data\\ApplicationContext.cs",
+              "RelativeDocumentMoniker": "app-hw\\Data\\ApplicationContext.cs",
+              "ToolTip": "D:\\development\\itStep\\asp.net\\asp.net-classes\\identity2\\app-hw\\app-hw\\Data\\ApplicationContext.cs",
+              "RelativeToolTip": "app-hw\\Data\\ApplicationContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T20:33:11.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Friendship.cs",
+              "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\identity2\\app-hw\\app-hw\\Models\\Friendship.cs",
+              "RelativeDocumentMoniker": "app-hw\\Models\\Friendship.cs",
+              "ToolTip": "D:\\development\\itStep\\asp.net\\asp.net-classes\\identity2\\app-hw\\app-hw\\Models\\Friendship.cs",
+              "RelativeToolTip": "app-hw\\Models\\Friendship.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T20:32:36.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FriendRequest.cs",
+              "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\identity2\\app-hw\\app-hw\\Models\\FriendRequest.cs",
+              "RelativeDocumentMoniker": "app-hw\\Models\\FriendRequest.cs",
+              "ToolTip": "D:\\development\\itStep\\asp.net\\asp.net-classes\\identity2\\app-hw\\app-hw\\Models\\FriendRequest.cs",
+              "RelativeToolTip": "app-hw\\Models\\FriendRequest.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T20:32:14.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Post.cs",
+              "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\identity2\\app-hw\\app-hw\\Models\\Post.cs",
+              "RelativeDocumentMoniker": "app-hw\\Models\\Post.cs",
+              "ToolTip": "D:\\development\\itStep\\asp.net\\asp.net-classes\\identity2\\app-hw\\app-hw\\Models\\Post.cs",
+              "RelativeToolTip": "app-hw\\Models\\Post.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T20:31:39.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\identity2\\app-hw\\app-hw\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "app-hw\\Models\\ApplicationUser.cs",
+              "ToolTip": "D:\\development\\itStep\\asp.net\\asp.net-classes\\identity2\\app-hw\\app-hw\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "app-hw\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T20:31:13.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
