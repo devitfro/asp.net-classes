@@ -1,0 +1,187 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\development\\itStep\\asp.net\\asp.net-classes\\cookies\\app-hw\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF93DECC-D7BE-4565-B5EB-6EE6CFDE217F}|app-hw\\app-hw.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\cookies\\app-hw\\app-hw\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF93DECC-D7BE-4565-B5EB-6EE6CFDE217F}|app-hw\\app-hw.csproj|solutionrelative:app-hw\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF93DECC-D7BE-4565-B5EB-6EE6CFDE217F}|app-hw\\app-hw.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\cookies\\app-hw\\app-hw\\controllers\\settingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF93DECC-D7BE-4565-B5EB-6EE6CFDE217F}|app-hw\\app-hw.csproj|solutionrelative:app-hw\\controllers\\settingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF93DECC-D7BE-4565-B5EB-6EE6CFDE217F}|app-hw\\app-hw.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\cookies\\app-hw\\app-hw\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF93DECC-D7BE-4565-B5EB-6EE6CFDE217F}|app-hw\\app-hw.csproj|solutionrelative:app-hw\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF93DECC-D7BE-4565-B5EB-6EE6CFDE217F}|app-hw\\app-hw.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\cookies\\app-hw\\app-hw\\views\\settings\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF93DECC-D7BE-4565-B5EB-6EE6CFDE217F}|app-hw\\app-hw.csproj|solutionrelative:app-hw\\views\\settings\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF93DECC-D7BE-4565-B5EB-6EE6CFDE217F}|app-hw\\app-hw.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\cookies\\app-hw\\app-hw\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF93DECC-D7BE-4565-B5EB-6EE6CFDE217F}|app-hw\\app-hw.csproj|solutionrelative:app-hw\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF93DECC-D7BE-4565-B5EB-6EE6CFDE217F}|app-hw\\app-hw.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\cookies\\app-hw\\app-hw\\mapping\\mappingprofile .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF93DECC-D7BE-4565-B5EB-6EE6CFDE217F}|app-hw\\app-hw.csproj|solutionrelative:app-hw\\mapping\\mappingprofile .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF93DECC-D7BE-4565-B5EB-6EE6CFDE217F}|app-hw\\app-hw.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\cookies\\app-hw\\app-hw\\viewmodels\\settingsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF93DECC-D7BE-4565-B5EB-6EE6CFDE217F}|app-hw\\app-hw.csproj|solutionrelative:app-hw\\viewmodels\\settingsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF93DECC-D7BE-4565-B5EB-6EE6CFDE217F}|app-hw\\app-hw.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\cookies\\app-hw\\app-hw\\viewmodels\\newsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF93DECC-D7BE-4565-B5EB-6EE6CFDE217F}|app-hw\\app-hw.csproj|solutionrelative:app-hw\\viewmodels\\newsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF93DECC-D7BE-4565-B5EB-6EE6CFDE217F}|app-hw\\app-hw.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\cookies\\app-hw\\app-hw\\models\\news.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF93DECC-D7BE-4565-B5EB-6EE6CFDE217F}|app-hw\\app-hw.csproj|solutionrelative:app-hw\\models\\news.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1187,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\cookies\\app-hw\\app-hw\\Views\\Settings\\Index.cshtml",
+              "RelativeDocumentMoniker": "app-hw\\Views\\Settings\\Index.cshtml",
+              "ToolTip": "D:\\development\\itStep\\asp.net\\asp.net-classes\\cookies\\app-hw\\app-hw\\Views\\Settings\\Index.cshtml",
+              "RelativeToolTip": "app-hw\\Views\\Settings\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-02T15:27:00.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\cookies\\app-hw\\app-hw\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "app-hw\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\development\\itStep\\asp.net\\asp.net-classes\\cookies\\app-hw\\app-hw\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "app-hw\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-02T15:26:17.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SettingsController.cs",
+              "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\cookies\\app-hw\\app-hw\\Controllers\\SettingsController.cs",
+              "RelativeDocumentMoniker": "app-hw\\Controllers\\SettingsController.cs",
+              "ToolTip": "D:\\development\\itStep\\asp.net\\asp.net-classes\\cookies\\app-hw\\app-hw\\Controllers\\SettingsController.cs",
+              "RelativeToolTip": "app-hw\\Controllers\\SettingsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T15:25:44.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\cookies\\app-hw\\app-hw\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "app-hw\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\development\\itStep\\asp.net\\asp.net-classes\\cookies\\app-hw\\app-hw\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "app-hw\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T15:24:33.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\cookies\\app-hw\\app-hw\\Program.cs",
+              "RelativeDocumentMoniker": "app-hw\\Program.cs",
+              "ToolTip": "D:\\development\\itStep\\asp.net\\asp.net-classes\\cookies\\app-hw\\app-hw\\Program.cs",
+              "RelativeToolTip": "app-hw\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T15:23:49.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MappingProfile .cs",
+              "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\cookies\\app-hw\\app-hw\\Mapping\\MappingProfile .cs",
+              "RelativeDocumentMoniker": "app-hw\\Mapping\\MappingProfile .cs",
+              "ToolTip": "D:\\development\\itStep\\asp.net\\asp.net-classes\\cookies\\app-hw\\app-hw\\Mapping\\MappingProfile .cs",
+              "RelativeToolTip": "app-hw\\Mapping\\MappingProfile .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T15:23:16.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SettingsViewModel.cs",
+              "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\cookies\\app-hw\\app-hw\\ViewModels\\SettingsViewModel.cs",
+              "RelativeDocumentMoniker": "app-hw\\ViewModels\\SettingsViewModel.cs",
+              "ToolTip": "D:\\development\\itStep\\asp.net\\asp.net-classes\\cookies\\app-hw\\app-hw\\ViewModels\\SettingsViewModel.cs",
+              "RelativeToolTip": "app-hw\\ViewModels\\SettingsViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T15:22:34.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NewsViewModel.cs",
+              "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\cookies\\app-hw\\app-hw\\ViewModels\\NewsViewModel.cs",
+              "RelativeDocumentMoniker": "app-hw\\ViewModels\\NewsViewModel.cs",
+              "ToolTip": "D:\\development\\itStep\\asp.net\\asp.net-classes\\cookies\\app-hw\\app-hw\\ViewModels\\NewsViewModel.cs",
+              "RelativeToolTip": "app-hw\\ViewModels\\NewsViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T15:21:55.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "News.cs",
+              "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\cookies\\app-hw\\app-hw\\Models\\News.cs",
+              "RelativeDocumentMoniker": "app-hw\\Models\\News.cs",
+              "ToolTip": "D:\\development\\itStep\\asp.net\\asp.net-classes\\cookies\\app-hw\\app-hw\\Models\\News.cs",
+              "RelativeToolTip": "app-hw\\Models\\News.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T15:21:22.839Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 577,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

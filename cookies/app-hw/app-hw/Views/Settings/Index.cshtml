@@ -1,0 +1,15 @@
+﻿@model app_hw.ViewModels.SettingsViewModel
+
+<h1>Настройки чтения</h1>
+
+<form method="post">
+    <label>
+        <input type="radio" name="Theme" value="light" @(Model.Theme == "light" ? "checked" : "") /> Светлая тема
+    </label>
+    <br />
+    <label>
+        <input type="radio" name="Theme" value="dark" @(Model.Theme == "dark" ? "checked" : "") /> Тёмная тема
+    </label>
+    <br /><br />
+    <button type="submit">Сохранить</button>
+</form>

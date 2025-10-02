@@ -1,0 +1,29 @@
+﻿@model List<app_hw.ViewModels.NewsViewModel>
+@{
+    string theme = ViewBag.Theme ?? "light";
+}
+
+<!DOCTYPE html>
+<html lang="ru" data-theme="@theme">
+<head>
+    <meta charset="utf-8" />
+    <title>Блог</title>
+    <link rel="stylesheet" href="~/css/site.css" />
+</head>
+<body class="@theme">
+    <h1>Мой блог</h1>
+    <a href="/Settings">Настройки чтения</a>
+
+    <hr />
+
+    @foreach (var news in Model)
+    {
+        <div class="news-item">
+            <h2>@news.Title</h2>
+            <p>@news.ShortContent</p>
+            <small>@news.DateFormatted</small>
+            <hr />
+        </div>
+    }
+</body>
+</html>
