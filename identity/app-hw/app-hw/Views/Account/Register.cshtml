@@ -1,0 +1,35 @@
+﻿@model app_hw.ViewModels.RegisterViewModel
+
+<h2>Регистрация</h2>
+
+<form asp-action="Register" method="post">
+    <div>
+        <label>ФИО</label>
+        <input asp-for="FullName" />
+        <span asp-validation-for="FullName"></span>
+    </div>
+    <div>
+        <label>Email</label>
+        <input asp-for="Email" />
+        <span asp-validation-for="Email"></span>
+    </div>
+    <div>
+        <label>Пароль</label>
+        <input asp-for="Password" type="password" />
+        <span asp-validation-for="Password"></span>
+    </div>
+    <div>
+        <label>Подтвердите пароль</label>
+        <input asp-for="ConfirmPassword" type="password" />
+        <span asp-validation-for="ConfirmPassword"></span>
+    </div>
+    <button type="submit">Зарегистрироваться</button>
+</form>
+
+<p>Уже есть аккаунт? <a asp-action="Login">Войти</a></p>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

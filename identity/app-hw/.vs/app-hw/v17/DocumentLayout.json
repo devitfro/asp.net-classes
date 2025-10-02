@@ -1,0 +1,306 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\development\\itStep\\asp.net\\asp.net-classes\\ident\\app-hw\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D80EA25-FBAE-40C5-8174-49900FC8D6DF}|app-hw\\app-hw.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\ident\\app-hw\\app-hw\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D80EA25-FBAE-40C5-8174-49900FC8D6DF}|app-hw\\app-hw.csproj|solutionrelative:app-hw\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D80EA25-FBAE-40C5-8174-49900FC8D6DF}|app-hw\\app-hw.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\ident\\app-hw\\app-hw\\views\\account\\editprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D80EA25-FBAE-40C5-8174-49900FC8D6DF}|app-hw\\app-hw.csproj|solutionrelative:app-hw\\views\\account\\editprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D80EA25-FBAE-40C5-8174-49900FC8D6DF}|app-hw\\app-hw.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\ident\\app-hw\\app-hw\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D80EA25-FBAE-40C5-8174-49900FC8D6DF}|app-hw\\app-hw.csproj|solutionrelative:app-hw\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D80EA25-FBAE-40C5-8174-49900FC8D6DF}|app-hw\\app-hw.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\ident\\app-hw\\app-hw\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D80EA25-FBAE-40C5-8174-49900FC8D6DF}|app-hw\\app-hw.csproj|solutionrelative:app-hw\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D80EA25-FBAE-40C5-8174-49900FC8D6DF}|app-hw\\app-hw.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\ident\\app-hw\\app-hw\\views\\notes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D80EA25-FBAE-40C5-8174-49900FC8D6DF}|app-hw\\app-hw.csproj|solutionrelative:app-hw\\views\\notes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D80EA25-FBAE-40C5-8174-49900FC8D6DF}|app-hw\\app-hw.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\ident\\app-hw\\app-hw\\views\\notes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D80EA25-FBAE-40C5-8174-49900FC8D6DF}|app-hw\\app-hw.csproj|solutionrelative:app-hw\\views\\notes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D80EA25-FBAE-40C5-8174-49900FC8D6DF}|app-hw\\app-hw.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\ident\\app-hw\\app-hw\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D80EA25-FBAE-40C5-8174-49900FC8D6DF}|app-hw\\app-hw.csproj|solutionrelative:app-hw\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D80EA25-FBAE-40C5-8174-49900FC8D6DF}|app-hw\\app-hw.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\ident\\app-hw\\app-hw\\viewmodels\\changepasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D80EA25-FBAE-40C5-8174-49900FC8D6DF}|app-hw\\app-hw.csproj|solutionrelative:app-hw\\viewmodels\\changepasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D80EA25-FBAE-40C5-8174-49900FC8D6DF}|app-hw\\app-hw.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\ident\\app-hw\\app-hw\\viewmodels\\editprofileviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D80EA25-FBAE-40C5-8174-49900FC8D6DF}|app-hw\\app-hw.csproj|solutionrelative:app-hw\\viewmodels\\editprofileviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D80EA25-FBAE-40C5-8174-49900FC8D6DF}|app-hw\\app-hw.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\ident\\app-hw\\app-hw\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D80EA25-FBAE-40C5-8174-49900FC8D6DF}|app-hw\\app-hw.csproj|solutionrelative:app-hw\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D80EA25-FBAE-40C5-8174-49900FC8D6DF}|app-hw\\app-hw.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\ident\\app-hw\\app-hw\\data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D80EA25-FBAE-40C5-8174-49900FC8D6DF}|app-hw\\app-hw.csproj|solutionrelative:app-hw\\data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D80EA25-FBAE-40C5-8174-49900FC8D6DF}|app-hw\\app-hw.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\ident\\app-hw\\app-hw\\data\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D80EA25-FBAE-40C5-8174-49900FC8D6DF}|app-hw\\app-hw.csproj|solutionrelative:app-hw\\data\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D80EA25-FBAE-40C5-8174-49900FC8D6DF}|app-hw\\app-hw.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\ident\\app-hw\\app-hw\\controllers\\notescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D80EA25-FBAE-40C5-8174-49900FC8D6DF}|app-hw\\app-hw.csproj|solutionrelative:app-hw\\controllers\\notescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D80EA25-FBAE-40C5-8174-49900FC8D6DF}|app-hw\\app-hw.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\ident\\app-hw\\app-hw\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1D80EA25-FBAE-40C5-8174-49900FC8D6DF}|app-hw\\app-hw.csproj|solutionrelative:app-hw\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D80EA25-FBAE-40C5-8174-49900FC8D6DF}|app-hw\\app-hw.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\ident\\app-hw\\app-hw\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D80EA25-FBAE-40C5-8174-49900FC8D6DF}|app-hw\\app-hw.csproj|solutionrelative:app-hw\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D80EA25-FBAE-40C5-8174-49900FC8D6DF}|app-hw\\app-hw.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\ident\\app-hw\\app-hw\\models\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D80EA25-FBAE-40C5-8174-49900FC8D6DF}|app-hw\\app-hw.csproj|solutionrelative:app-hw\\models\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1189,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\ident\\app-hw\\app-hw\\Views\\Notes\\Create.cshtml",
+              "RelativeDocumentMoniker": "app-hw\\Views\\Notes\\Create.cshtml",
+              "ToolTip": "D:\\development\\itStep\\asp.net\\asp.net-classes\\ident\\app-hw\\app-hw\\Views\\Notes\\Create.cshtml",
+              "RelativeToolTip": "app-hw\\Views\\Notes\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-02T19:40:13.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\ident\\app-hw\\app-hw\\Views\\Notes\\Edit.cshtml",
+              "RelativeDocumentMoniker": "app-hw\\Views\\Notes\\Edit.cshtml",
+              "ToolTip": "D:\\development\\itStep\\asp.net\\asp.net-classes\\ident\\app-hw\\app-hw\\Views\\Notes\\Edit.cshtml",
+              "RelativeToolTip": "app-hw\\Views\\Notes\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-02T19:39:54.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EditProfile.cshtml",
+              "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\ident\\app-hw\\app-hw\\Views\\Account\\EditProfile.cshtml",
+              "RelativeDocumentMoniker": "app-hw\\Views\\Account\\EditProfile.cshtml",
+              "ToolTip": "D:\\development\\itStep\\asp.net\\asp.net-classes\\ident\\app-hw\\app-hw\\Views\\Account\\EditProfile.cshtml",
+              "RelativeToolTip": "app-hw\\Views\\Account\\EditProfile.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-02T19:37:59.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\ident\\app-hw\\app-hw\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "app-hw\\Views\\Account\\Login.cshtml",
+              "ToolTip": "D:\\development\\itStep\\asp.net\\asp.net-classes\\ident\\app-hw\\app-hw\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "app-hw\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-02T19:37:34.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\ident\\app-hw\\app-hw\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "app-hw\\Views\\Account\\Register.cshtml",
+              "ToolTip": "D:\\development\\itStep\\asp.net\\asp.net-classes\\ident\\app-hw\\app-hw\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "app-hw\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-02T19:36:53.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\ident\\app-hw\\app-hw\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "app-hw\\ViewModels\\LoginViewModel.cs",
+              "ToolTip": "D:\\development\\itStep\\asp.net\\asp.net-classes\\ident\\app-hw\\app-hw\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "app-hw\\ViewModels\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T19:35:23.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ChangePasswordViewModel.cs",
+              "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\ident\\app-hw\\app-hw\\ViewModels\\ChangePasswordViewModel.cs",
+              "RelativeDocumentMoniker": "app-hw\\ViewModels\\ChangePasswordViewModel.cs",
+              "ToolTip": "D:\\development\\itStep\\asp.net\\asp.net-classes\\ident\\app-hw\\app-hw\\ViewModels\\ChangePasswordViewModel.cs",
+              "RelativeToolTip": "app-hw\\ViewModels\\ChangePasswordViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T19:36:03.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\ident\\app-hw\\app-hw\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "app-hw\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\development\\itStep\\asp.net\\asp.net-classes\\ident\\app-hw\\app-hw\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "app-hw\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAIAwwGwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T19:31:48.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EditProfileViewModel.cs",
+              "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\ident\\app-hw\\app-hw\\ViewModels\\EditProfileViewModel.cs",
+              "RelativeDocumentMoniker": "app-hw\\ViewModels\\EditProfileViewModel.cs",
+              "ToolTip": "D:\\development\\itStep\\asp.net\\asp.net-classes\\ident\\app-hw\\app-hw\\ViewModels\\EditProfileViewModel.cs",
+              "RelativeToolTip": "app-hw\\ViewModels\\EditProfileViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T19:35:44.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\ident\\app-hw\\app-hw\\ViewModels\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "app-hw\\ViewModels\\RegisterViewModel.cs",
+              "ToolTip": "D:\\development\\itStep\\asp.net\\asp.net-classes\\ident\\app-hw\\app-hw\\ViewModels\\RegisterViewModel.cs",
+              "RelativeToolTip": "app-hw\\ViewModels\\RegisterViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T19:35:03.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NotesController.cs",
+              "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\ident\\app-hw\\app-hw\\Controllers\\NotesController.cs",
+              "RelativeDocumentMoniker": "app-hw\\Controllers\\NotesController.cs",
+              "ToolTip": "D:\\development\\itStep\\asp.net\\asp.net-classes\\ident\\app-hw\\app-hw\\Controllers\\NotesController.cs",
+              "RelativeToolTip": "app-hw\\Controllers\\NotesController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T19:32:37.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\ident\\app-hw\\app-hw\\appsettings.json",
+              "RelativeDocumentMoniker": "app-hw\\appsettings.json",
+              "ToolTip": "D:\\development\\itStep\\asp.net\\asp.net-classes\\ident\\app-hw\\app-hw\\appsettings.json",
+              "RelativeToolTip": "app-hw\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-02T19:31:23.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Note.cs",
+              "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\ident\\app-hw\\app-hw\\Models\\Note.cs",
+              "RelativeDocumentMoniker": "app-hw\\Models\\Note.cs",
+              "ToolTip": "D:\\development\\itStep\\asp.net\\asp.net-classes\\ident\\app-hw\\app-hw\\Models\\Note.cs",
+              "RelativeToolTip": "app-hw\\Models\\Note.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T19:29:48.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\ident\\app-hw\\app-hw\\Data\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "app-hw\\Data\\ApplicationUser.cs",
+              "ToolTip": "D:\\development\\itStep\\asp.net\\asp.net-classes\\ident\\app-hw\\app-hw\\Data\\ApplicationUser.cs",
+              "RelativeToolTip": "app-hw\\Data\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T19:29:20.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationContext.cs",
+              "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\ident\\app-hw\\app-hw\\Data\\ApplicationContext.cs",
+              "RelativeDocumentMoniker": "app-hw\\Data\\ApplicationContext.cs",
+              "ToolTip": "D:\\development\\itStep\\asp.net\\asp.net-classes\\ident\\app-hw\\app-hw\\Data\\ApplicationContext.cs",
+              "RelativeToolTip": "app-hw\\Data\\ApplicationContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T19:27:21.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\ident\\app-hw\\app-hw\\Program.cs",
+              "RelativeDocumentMoniker": "app-hw\\Program.cs",
+              "ToolTip": "D:\\development\\itStep\\asp.net\\asp.net-classes\\ident\\app-hw\\app-hw\\Program.cs",
+              "RelativeToolTip": "app-hw\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T19:26:07.438Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 575,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+﻿@model app_hw.ViewModels.EditProfileViewModel
+
+<h2>Редактирование профиля</h2>
+
+<form asp-action="EditProfile" method="post">
+    <div>
+        <label>ФИО</label>
+        <input asp-for="FullName" />
+        <span asp-validation-for="FullName"></span>
+    </div>
+    <div>
+        <label>Email</label>
+        <input asp-for="Email" />
+        <span asp-validation-for="Email"></span>
+    </div>
+    <button type="submit">Сохранить</button>
+</form>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

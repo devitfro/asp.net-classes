@@ -1,0 +1,26 @@
+﻿@model IEnumerable<app_hw.Models.Note>
+
+<h2>Мои заметки</h2>
+
+<p><a asp-action="Create">Создать новую заметку</a> | <a asp-controller="Account" asp-action="Logout">Выйти</a></p>
+
+<table>
+    <thead>
+        <tr>
+            <th>Заголовок</th>
+            <th>Действия</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var note in Model)
+        {
+            <tr>
+                <td>@note.Title</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@note.Id">Редактировать</a> |
+                    <a asp-action="Delete" asp-route-id="@note.Id">Удалить</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
