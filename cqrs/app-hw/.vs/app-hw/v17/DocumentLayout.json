@@ -1,0 +1,289 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\development\\itStep\\asp.net\\asp.net-classes\\cqrs\\app-hw\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB2DB3E9-0DFF-4260-8397-E5867E6F7250}|app-hw\\app-hw.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\cqrs\\app-hw\\app-hw\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB2DB3E9-0DFF-4260-8397-E5867E6F7250}|app-hw\\app-hw.csproj|solutionrelative:app-hw\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB2DB3E9-0DFF-4260-8397-E5867E6F7250}|app-hw\\app-hw.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\cqrs\\app-hw\\app-hw\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB2DB3E9-0DFF-4260-8397-E5867E6F7250}|app-hw\\app-hw.csproj|solutionrelative:app-hw\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB2DB3E9-0DFF-4260-8397-E5867E6F7250}|app-hw\\app-hw.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\cqrs\\app-hw\\app-hw\\features\\queries\\getbookbyid\\getbookbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB2DB3E9-0DFF-4260-8397-E5867E6F7250}|app-hw\\app-hw.csproj|solutionrelative:app-hw\\features\\queries\\getbookbyid\\getbookbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB2DB3E9-0DFF-4260-8397-E5867E6F7250}|app-hw\\app-hw.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\cqrs\\app-hw\\app-hw\\features\\queries\\getbookbyid\\getbookbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB2DB3E9-0DFF-4260-8397-E5867E6F7250}|app-hw\\app-hw.csproj|solutionrelative:app-hw\\features\\queries\\getbookbyid\\getbookbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB2DB3E9-0DFF-4260-8397-E5867E6F7250}|app-hw\\app-hw.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\cqrs\\app-hw\\app-hw\\features\\queries\\getbooks\\getbooksqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB2DB3E9-0DFF-4260-8397-E5867E6F7250}|app-hw\\app-hw.csproj|solutionrelative:app-hw\\features\\queries\\getbooks\\getbooksqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB2DB3E9-0DFF-4260-8397-E5867E6F7250}|app-hw\\app-hw.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\cqrs\\app-hw\\app-hw\\features\\queries\\getbooks\\getbooksquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB2DB3E9-0DFF-4260-8397-E5867E6F7250}|app-hw\\app-hw.csproj|solutionrelative:app-hw\\features\\queries\\getbooks\\getbooksquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB2DB3E9-0DFF-4260-8397-E5867E6F7250}|app-hw\\app-hw.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\cqrs\\app-hw\\app-hw\\features\\commands\\deletebook\\deletebookcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB2DB3E9-0DFF-4260-8397-E5867E6F7250}|app-hw\\app-hw.csproj|solutionrelative:app-hw\\features\\commands\\deletebook\\deletebookcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB2DB3E9-0DFF-4260-8397-E5867E6F7250}|app-hw\\app-hw.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\cqrs\\app-hw\\app-hw\\features\\commands\\deletebook\\deletebookcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB2DB3E9-0DFF-4260-8397-E5867E6F7250}|app-hw\\app-hw.csproj|solutionrelative:app-hw\\features\\commands\\deletebook\\deletebookcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB2DB3E9-0DFF-4260-8397-E5867E6F7250}|app-hw\\app-hw.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\cqrs\\app-hw\\app-hw\\features\\commands\\updatebook\\updatebookcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB2DB3E9-0DFF-4260-8397-E5867E6F7250}|app-hw\\app-hw.csproj|solutionrelative:app-hw\\features\\commands\\updatebook\\updatebookcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB2DB3E9-0DFF-4260-8397-E5867E6F7250}|app-hw\\app-hw.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\cqrs\\app-hw\\app-hw\\features\\commands\\updatebook\\updatebookcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB2DB3E9-0DFF-4260-8397-E5867E6F7250}|app-hw\\app-hw.csproj|solutionrelative:app-hw\\features\\commands\\updatebook\\updatebookcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB2DB3E9-0DFF-4260-8397-E5867E6F7250}|app-hw\\app-hw.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\cqrs\\app-hw\\app-hw\\features\\commands\\addbook\\addbookcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB2DB3E9-0DFF-4260-8397-E5867E6F7250}|app-hw\\app-hw.csproj|solutionrelative:app-hw\\features\\commands\\addbook\\addbookcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB2DB3E9-0DFF-4260-8397-E5867E6F7250}|app-hw\\app-hw.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\cqrs\\app-hw\\app-hw\\features\\commands\\addbook\\addbookcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB2DB3E9-0DFF-4260-8397-E5867E6F7250}|app-hw\\app-hw.csproj|solutionrelative:app-hw\\features\\commands\\addbook\\addbookcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB2DB3E9-0DFF-4260-8397-E5867E6F7250}|app-hw\\app-hw.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\cqrs\\app-hw\\app-hw\\models\\bookhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB2DB3E9-0DFF-4260-8397-E5867E6F7250}|app-hw\\app-hw.csproj|solutionrelative:app-hw\\models\\bookhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB2DB3E9-0DFF-4260-8397-E5867E6F7250}|app-hw\\app-hw.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\cqrs\\app-hw\\app-hw\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB2DB3E9-0DFF-4260-8397-E5867E6F7250}|app-hw\\app-hw.csproj|solutionrelative:app-hw\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB2DB3E9-0DFF-4260-8397-E5867E6F7250}|app-hw\\app-hw.csproj|d:\\development\\itstep\\asp.net\\asp.net-classes\\cqrs\\app-hw\\app-hw\\data\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB2DB3E9-0DFF-4260-8397-E5867E6F7250}|app-hw\\app-hw.csproj|solutionrelative:app-hw\\data\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1189,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 575,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\cqrs\\app-hw\\app-hw\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "app-hw\\Controllers\\BooksController.cs",
+              "ToolTip": "D:\\development\\itStep\\asp.net\\asp.net-classes\\cqrs\\app-hw\\app-hw\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "app-hw\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAE4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T20:53:27.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetBookByIdQueryHandler.cs",
+              "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\cqrs\\app-hw\\app-hw\\Features\\Queries\\GetBookById\\GetBookByIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "app-hw\\Features\\Queries\\GetBookById\\GetBookByIdQueryHandler.cs",
+              "ToolTip": "D:\\development\\itStep\\asp.net\\asp.net-classes\\cqrs\\app-hw\\app-hw\\Features\\Queries\\GetBookById\\GetBookByIdQueryHandler.cs",
+              "RelativeToolTip": "app-hw\\Features\\Queries\\GetBookById\\GetBookByIdQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T20:52:50.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetBookByIdQuery.cs",
+              "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\cqrs\\app-hw\\app-hw\\Features\\Queries\\GetBookById\\GetBookByIdQuery.cs",
+              "RelativeDocumentMoniker": "app-hw\\Features\\Queries\\GetBookById\\GetBookByIdQuery.cs",
+              "ToolTip": "D:\\development\\itStep\\asp.net\\asp.net-classes\\cqrs\\app-hw\\app-hw\\Features\\Queries\\GetBookById\\GetBookByIdQuery.cs",
+              "RelativeToolTip": "app-hw\\Features\\Queries\\GetBookById\\GetBookByIdQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T20:52:22.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetBooksQueryHandler.cs",
+              "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\cqrs\\app-hw\\app-hw\\Features\\Queries\\GetBooks\\GetBooksQueryHandler.cs",
+              "RelativeDocumentMoniker": "app-hw\\Features\\Queries\\GetBooks\\GetBooksQueryHandler.cs",
+              "ToolTip": "D:\\development\\itStep\\asp.net\\asp.net-classes\\cqrs\\app-hw\\app-hw\\Features\\Queries\\GetBooks\\GetBooksQueryHandler.cs",
+              "RelativeToolTip": "app-hw\\Features\\Queries\\GetBooks\\GetBooksQueryHandler.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABUAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T20:51:45.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetBooksQuery.cs",
+              "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\cqrs\\app-hw\\app-hw\\Features\\Queries\\GetBooks\\GetBooksQuery.cs",
+              "RelativeDocumentMoniker": "app-hw\\Features\\Queries\\GetBooks\\GetBooksQuery.cs",
+              "ToolTip": "D:\\development\\itStep\\asp.net\\asp.net-classes\\cqrs\\app-hw\\app-hw\\Features\\Queries\\GetBooks\\GetBooksQuery.cs",
+              "RelativeToolTip": "app-hw\\Features\\Queries\\GetBooks\\GetBooksQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T20:51:26.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DeleteBookCommandHandler.cs",
+              "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\cqrs\\app-hw\\app-hw\\Features\\Commands\\DeleteBook\\DeleteBookCommandHandler.cs",
+              "RelativeDocumentMoniker": "app-hw\\Features\\Commands\\DeleteBook\\DeleteBookCommandHandler.cs",
+              "ToolTip": "D:\\development\\itStep\\asp.net\\asp.net-classes\\cqrs\\app-hw\\app-hw\\Features\\Commands\\DeleteBook\\DeleteBookCommandHandler.cs",
+              "RelativeToolTip": "app-hw\\Features\\Commands\\DeleteBook\\DeleteBookCommandHandler.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T20:50:32.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DeleteBookCommand.cs",
+              "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\cqrs\\app-hw\\app-hw\\Features\\Commands\\DeleteBook\\DeleteBookCommand.cs",
+              "RelativeDocumentMoniker": "app-hw\\Features\\Commands\\DeleteBook\\DeleteBookCommand.cs",
+              "ToolTip": "D:\\development\\itStep\\asp.net\\asp.net-classes\\cqrs\\app-hw\\app-hw\\Features\\Commands\\DeleteBook\\DeleteBookCommand.cs",
+              "RelativeToolTip": "app-hw\\Features\\Commands\\DeleteBook\\DeleteBookCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T20:50:14.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UpdateBookCommandHandler.cs",
+              "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\cqrs\\app-hw\\app-hw\\Features\\Commands\\UpdateBook\\UpdateBookCommandHandler.cs",
+              "RelativeDocumentMoniker": "app-hw\\Features\\Commands\\UpdateBook\\UpdateBookCommandHandler.cs",
+              "ToolTip": "D:\\development\\itStep\\asp.net\\asp.net-classes\\cqrs\\app-hw\\app-hw\\Features\\Commands\\UpdateBook\\UpdateBookCommandHandler.cs",
+              "RelativeToolTip": "app-hw\\Features\\Commands\\UpdateBook\\UpdateBookCommandHandler.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAABYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T20:49:12.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\cqrs\\app-hw\\app-hw\\Program.cs",
+              "RelativeDocumentMoniker": "app-hw\\Program.cs",
+              "ToolTip": "D:\\development\\itStep\\asp.net\\asp.net-classes\\cqrs\\app-hw\\app-hw\\Program.cs",
+              "RelativeToolTip": "app-hw\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAIAwwA4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T20:44:09.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UpdateBookCommand.cs",
+              "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\cqrs\\app-hw\\app-hw\\Features\\Commands\\UpdateBook\\UpdateBookCommand.cs",
+              "RelativeDocumentMoniker": "app-hw\\Features\\Commands\\UpdateBook\\UpdateBookCommand.cs",
+              "ToolTip": "D:\\development\\itStep\\asp.net\\asp.net-classes\\cqrs\\app-hw\\app-hw\\Features\\Commands\\UpdateBook\\UpdateBookCommand.cs",
+              "RelativeToolTip": "app-hw\\Features\\Commands\\UpdateBook\\UpdateBookCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T20:48:54.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AddBookCommandHandler.cs",
+              "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\cqrs\\app-hw\\app-hw\\Features\\Commands\\AddBook\\AddBookCommandHandler.cs",
+              "RelativeDocumentMoniker": "app-hw\\Features\\Commands\\AddBook\\AddBookCommandHandler.cs",
+              "ToolTip": "D:\\development\\itStep\\asp.net\\asp.net-classes\\cqrs\\app-hw\\app-hw\\Features\\Commands\\AddBook\\AddBookCommandHandler.cs",
+              "RelativeToolTip": "app-hw\\Features\\Commands\\AddBook\\AddBookCommandHandler.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T20:47:45.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AddBookCommand.cs",
+              "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\cqrs\\app-hw\\app-hw\\Features\\Commands\\AddBook\\AddBookCommand.cs",
+              "RelativeDocumentMoniker": "app-hw\\Features\\Commands\\AddBook\\AddBookCommand.cs",
+              "ToolTip": "D:\\development\\itStep\\asp.net\\asp.net-classes\\cqrs\\app-hw\\app-hw\\Features\\Commands\\AddBook\\AddBookCommand.cs",
+              "RelativeToolTip": "app-hw\\Features\\Commands\\AddBook\\AddBookCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T20:47:19.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BookHistory.cs",
+              "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\cqrs\\app-hw\\app-hw\\Models\\BookHistory.cs",
+              "RelativeDocumentMoniker": "app-hw\\Models\\BookHistory.cs",
+              "ToolTip": "D:\\development\\itStep\\asp.net\\asp.net-classes\\cqrs\\app-hw\\app-hw\\Models\\BookHistory.cs",
+              "RelativeToolTip": "app-hw\\Models\\BookHistory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T20:46:48.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\cqrs\\app-hw\\app-hw\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "app-hw\\Models\\Book.cs",
+              "ToolTip": "D:\\development\\itStep\\asp.net\\asp.net-classes\\cqrs\\app-hw\\app-hw\\Models\\Book.cs",
+              "RelativeToolTip": "app-hw\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T20:46:24.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ApplicationContext.cs",
+              "DocumentMoniker": "D:\\development\\itStep\\asp.net\\asp.net-classes\\cqrs\\app-hw\\app-hw\\Data\\ApplicationContext.cs",
+              "RelativeDocumentMoniker": "app-hw\\Data\\ApplicationContext.cs",
+              "ToolTip": "D:\\development\\itStep\\asp.net\\asp.net-classes\\cqrs\\app-hw\\app-hw\\Data\\ApplicationContext.cs",
+              "RelativeToolTip": "app-hw\\Data\\ApplicationContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T20:45:19.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
